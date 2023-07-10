@@ -14,7 +14,7 @@ A timeless classic, Margherita pizza showcases simple andfresh ingredients. The 
 
 # Margherita Pizza (Michelin Quality)
 
-![Margherita Pizza](images/margherita-pizza.jpg)
+![Margherita Pizza](images/margherita-pizza.png)
 
 Experience a Michelin-quality Margherita Pizza that celebrates the essence of simplicity and exceptional ingredients. This recipe brings together the finest flavors, perfectly balanced to create a truly remarkable pizza.
 

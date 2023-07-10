@@ -40,7 +40,7 @@ To ensure a smooth and enjoyable experience for everyone, please adhere to the f
 - Keep the content **relevant** to pizza. We love all things pizza-related!
 - Ensure your content is **family-friendly** and suitable for all audiences.
 - Provide **credible sources** for any facts or information you include.
-- Respect the **contributor's code of conduct** and be kind and inclusive to others.
+- Respect the **[code of conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md)** and be kind and inclusive to others.
 - Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 - We have a commit utility called [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit) that helps you write your commits in a way that is easy to understand and process by others.
 - Feel free to comment on and discuss other people's contributions, but keep the discussions **constructive** and respectful.

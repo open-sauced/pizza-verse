@@ -1,0 +1,22 @@
+{
+  "name": "pizza-verse",
+  "version": "1.0.0",
+  "description": "a markdown repository for people to contribute their favorite pizza-related content",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-sauced/pizza-verse.git"
+  },
+  "keywords": [
+    "open-source"
+  ],
+  "author": "BekahHW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-sauced/pizza-verse/issues"
+  },
+  "homepage": "https://github.com/open-sauced/pizza-verse#readme"
+}

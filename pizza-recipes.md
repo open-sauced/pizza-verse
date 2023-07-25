@@ -7,10 +7,14 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 ## Table of Contents
 
 - [Margherita Pizza](#margherita-pizza)
+- [Pepperoni Pizza](#pepperoni-pizza)
 
 
 ### Margherita Pizza
 A timeless classic, Margherita pizza showcases simple andfresh ingredients. The combination of tomato sauce, mozzarella cheese, and fresh basil leaves is a dependable go-to. 
+
+### Pepperoni Pizza
+A mouthwatering delight, featuring a perfect harmony of zesty pepperoni, savory cheese, and a satisfyingly crispy crust. A timeless classic that never fails to please the taste buds.
 
 # Margherita Pizza (Michelin Quality)
 
@@ -53,3 +57,39 @@ Experience a Michelin-quality Margherita Pizza that celebrates the essence of si
 
 
 
+# Pepperoni Pizza
+![Pepperoni Pizza](images/pepperoni-pizza.jpg)
+
+Pepperoni pizza, a classic favorite, tantalizes taste buds with its perfect blend of savory pepperoni and melted cheese, making every bite a delightful and satisfying experience.
+
+## Ingredients
+
+- Pizza dough (store-bought or homemade)
+- Pizza sauce (tomato-based sauce)
+- Shredded mozzarella cheese (or a blend of mozzarella and other cheeses)
+- Pepperoni slices
+- Olive oil (for brushing the crust, optional)
+- Dried oregano (optional, for sprinkling on top)
+- Red pepper flakes (optional, for added spice)
+
+## Instructions
+
+1. Preheat your oven: Preheat your oven to the temperature specified on the pizza dough package or to 475°F (245°C).
+
+2. Lightly grease a pizza pan or baking sheet with cooking spray or olive oil to prevent sticking.
+
+3. On a floured surface, roll out the pizza dough into your desired pizza size and thickness. If using store-bought dough, follow the package instructions.
+
+4. Carefully lift the rolled-out dough and place it on the greased pizza pan. Adjust the shape if needed.
+
+5. Spoon the pizza sauce onto the dough and spread it evenly, leaving a small border around the edges for the crust.
+
+6. Sprinkle a generous amount of shredded mozzarella cheese over the sauce, covering the entire pizza.
+
+7. Place the pepperoni slices on top of the cheese. You can cover the whole pizza or leave some spaces between the slices, depending on your preference.
+
+8. If desired, drizzle a little olive oil over the pizza to add extra flavor and shine. You can also sprinkle dried oregano and red pepper flakes on top for added taste and a touch of spice.
+
+9. Carefully transfer the pizza to the preheated oven and bake for about 12-15 minutes or until the crust is golden brown and the cheese is bubbly and slightly browned.
+
+10. Once the pizza is done baking, remove it from the oven and let it cool for a minute or two. Then, slice it into wedges or squares, and serve hot!

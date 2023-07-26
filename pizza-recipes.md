@@ -8,6 +8,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 
 - [Margherita Pizza](#margherita-pizza)
 - [Pepperoni Pizza](#pepperoni-pizza)
+- [4 Cheese Pizza🧀](#4-cheese-pizza )
 
 
 ### Margherita Pizza
@@ -15,6 +16,9 @@ A timeless classic, Margherita pizza showcases simple andfresh ingredients. The 
 
 ### Pepperoni Pizza
 A mouthwatering delight, featuring a perfect harmony of zesty pepperoni, savory cheese, and a satisfyingly crispy crust. A timeless classic that never fails to please the taste buds.
+
+### 4 Cheese Pizza
+Savor the scrumptiousness of a 4 Cheese Pizza, where four cheeses come together to create an unforgettable experience. From the gooey mozzarella to the bold cheddar, each cheese adds its distinct character to this pizza. So, if you're seeking a slice of cheesy heaven, look no further than this irresistible delight!
 
 # Margherita Pizza (Michelin Quality)
 
@@ -93,3 +97,44 @@ Pepperoni pizza, a classic favorite, tantalizes taste buds with its perfect blen
 9. Carefully transfer the pizza to the preheated oven and bake for about 12-15 minutes or until the crust is golden brown and the cheese is bubbly and slightly browned.
 
 10. Once the pizza is done baking, remove it from the oven and let it cool for a minute or two. Then, slice it into wedges or squares, and serve hot!
+
+# 4 Cheese Pizza
+![4 Cheese Pizza](images/4-cheese-pizza.jpg)
+
+Indulge in the cheesy delight of a 4 Cheese Pizza! This delectable pizza is a fusion of four different cheeses that harmonize to create an explosion of flavors. With creamy mozzarella, tangy cheddar, savory feta, and luscious fresh mozzarella, each bite is a taste of pure bliss. Perfect for cheese lovers and pizza enthusiasts alike, this mouthwatering treat promises to be an unforgettable culinary experience.
+
+## Ingredients
+
+- 1 pre-made pizza dough (or homemade, if preferred)
+- 1/2 cup pizza sauce (store-bought or homemade)
+- 1 cup shredded mozzarella cheese
+- 1/2 cup shredded cheddar cheese
+- 1/2 cup crumbled feta cheese
+- 1/2 cup sliced fresh mozzarella cheese
+- 2 tablespoons grated Parmesan cheese
+- 1 teaspoon dried oregano
+- 1 teaspoon dried basil
+- 1/2 teaspoon garlic powder
+- Olive oil (for brushing the crust)
+
+## Instructions
+
+1. Preheat your oven to the recommended temperature for pizza baking (usually around 475°F or 245°C).
+
+2. Roll out the pizza dough on a floured surface to your desired thickness. Place it on a pizza stone or a baking sheet lined with parchment paper.
+
+3. Spread the pizza sauce evenly over the dough, leaving a small border around the edges.
+
+4. Sprinkle the shredded mozzarella cheese, cheddar cheese, and crumbled feta cheese over the sauce, distributing them evenly.
+
+5. Arrange the sliced fresh mozzarella cheese on top of the other cheeses.
+
+6. Sprinkle the grated Parmesan cheese, dried oregano, dried basil, and garlic powder over the entire pizza for added flavor.
+
+7. Brush the edges of the pizza crust with olive oil to achieve a golden-brown and crispy crust.
+
+8. Place the pizza in the preheated oven and bake for about 12-15 minutes, or until the crust is golden and the cheese is melted and bubbly.
+
+9. Once the pizza is ready, remove it from the oven and let it cool slightly before slicing and serving.
+
+Enjoy the delightful taste of your homemade 4 Cheese Pizza with friends and family! It's a perfect blend of cheesy goodness that will surely leave everyone satisfied. Bon appétit!

@@ -33,3 +33,5 @@ Gain insights into the business and economic aspects of the pizza industry, incl
 
 ## Pizza Fun Facts
 Indulge in lighthearted and amusing pizza facts that bring joy to your pizza-loving soul.
+
+ 1. A pizza was delivered in space 🚀 and Russian cosmonaut, Yuri Usachov, had the honor of being the first person to receive a pizza delivery while in orbit.

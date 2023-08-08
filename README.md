@@ -25,8 +25,8 @@ Follow the steps below to get started:
 
 1. **Fork** this repository to your own GitHub account.
 2. **Clone** the forked repository to your local machine.
-3. Add a new pizza fact to the `pizza-facts.md` file or choose to add a new recipe to the `pizza-recipes.md` file. 
-4. Follow the existing markdown syntax to format your content. Feel free to add headings, bullet points, images, and links to enhance your contribution.
+3. Add a new pizza fact to the `pizza-facts.md` file or choose to add a new recipe to the `pizza-recipes.md` file.
+4. Follow our `style-guide.md` to format your content.
 5. Once you're done, **commit** your changes and **push** them to your forked repository.
 6. Submit a **pull request** to have your contribution reviewed and considered for merging into the main repository.
 7. Engage with other contributors and maintainers through comments and discussions.

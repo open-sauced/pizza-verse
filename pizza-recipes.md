@@ -9,7 +9,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Margherita Pizza](#margherita-pizza)
 - [Pepperoni Pizza](#pepperoni-pizza)
 - [4 Cheese Pizza🧀](#4-cheese-pizza )
-- [Spicy Pizza sauce](spicy-pizza-sauce)
+- [Spicy Pizza sauce](#spicy-pizza-sauce)
 
 
 ### Margherita Pizza

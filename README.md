@@ -18,6 +18,8 @@ Share your favorite pizza recipes. Whether it's a classic Margherita pizza or a 
 ### [Pizza Facts](pizza-facts.md) 
 Share your interesting and informative pizza-related facts. Contributors can provide verified and accurate information about the history of pizza, trivia about different pizza styles, nutritional aspects, or any other factual details that enhance our understanding and appreciation of pizza. Whether it's uncovering the origins of a specific pizza topping or revealing fascinating facts about renowned pizzerias, this category aims to enlighten and educate pizza enthusiasts.
 
+### [Regional Pizza](regional-pizza.md)
+
 
 ## How to Contribute
 
@@ -53,3 +55,4 @@ We encourage you to experiment, learn, and have fun while contributing to the Pi
 ## ⚖️ LICENSE
 
 MIT © [Open Sauced](LICENSE)
+

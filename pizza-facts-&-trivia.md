@@ -2,7 +2,7 @@
 
 Welcome to the Pizza facts and trivia section of our repo! 🍕📚
 
-We've categorized the facts into different sections to help explore the diverse world of pizza knowledge. If you have a fun pizza fact or trivia to share, feel free to contribute to this repository and help us expand our collection of pizza facts!
+We've categorized the facts into different sections to help explore the diverse world of pizza knowledge. If you have a fun pizza fact or trivia to share, feel free to contribute to this repository and help us expand our collection!
 
 ## Pizza Fun Facts
 

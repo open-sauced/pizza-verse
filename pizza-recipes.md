@@ -9,6 +9,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Margherita Pizza](#margherita-pizza)
 - [Pepperoni Pizza](#pepperoni-pizza)
 - [4 Cheese Pizza🧀](#4-cheese-pizza )
+- [Spicy Pizza sauce](#spicy-pizza-sauce)
 
 
 ### Margherita Pizza
@@ -19,6 +20,9 @@ A mouthwatering delight, featuring a perfect harmony of zesty pepperoni, savory 
 
 ### 4 Cheese Pizza
 Savor the scrumptiousness of a 4 Cheese Pizza, where four cheeses come together to create an unforgettable experience. From the gooey mozzarella to the bold cheddar, each cheese adds its distinct character to this pizza. So, if you're seeking a slice of cheesy heaven, look no further than this irresistible delight!
+
+### Spicy Pizza Sauce
+Home-made rich sensation sauce that will enchant your tongue in a burst of flavors. This combination of the sauce on any pizza will send you reeling backward in a rush of fiery delight 
 
 # Margherita Pizza (Michelin Quality)
 
@@ -138,3 +142,35 @@ Indulge in the cheesy delight of a 4 Cheese Pizza! This delectable pizza is a fu
 9. Once the pizza is ready, remove it from the oven and let it cool slightly before slicing and serving.
 
 Enjoy the delightful taste of your homemade 4 Cheese Pizza with friends and family! It's a perfect blend of cheesy goodness that will surely leave everyone satisfied. Bon appétit!
+
+# Spicy Pizza Sauce
+![Spicy Pizza Sauce](images/spicy-pizza-sauce.jpg)
+
+Embrace this blend of flavors as you forgo store-brought sauce for this nuturious homemade masterpiece. This sauce is a tad bit sweet, spicy, and not for the faint of heart. With extra garlic to add more depth and aroma, it will redefine your pizza experience. 
+
+## Ingredients
+- 3 medium tomatoes
+- 1 red bell pepper
+- 2 Scotch bonnet pepper (adjust to your preferred spice level)
+- 1 medium onion
+- 4 tbsp tomato paste (optional)
+- 5 cloves of garlic
+- 2 tsp sugar
+- Salt
+- 1 seasoning cube
+- 2 tablespoons olive oil
+
+## Instructions
+1. Chop onion, scotch bonnets, tomatoes, and seeded red bell pepper. Rinse them.
+
+2. Blend chopped ingredients with garlic until smooth.
+
+3. Heat oil, add tomato paste, cook till darkened and simmering.
+
+4. Pour blended puree into oil, stir and simmer.
+
+5. Add sugar, salt, and seasoning cube. Adjust taste, stir to prevent burning.
+
+6. Cook for 30 mins, adjust water if thick.
+
+7. Let it cool. Your pizza sauce is ready to use.

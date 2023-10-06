@@ -14,3 +14,14 @@ Ohio Valley pizza, also known as Steubenville-style pizza or cold-topping pizza,
 Served Immediately: Due to its unique preparation method, Ohio Valley pizza is best enjoyed immediately after it's made to experience the contrast of hot crust and cold toppings.
 
 This style of pizza is beloved by many in the Ohio Valley region and has a dedicated following. It offers a different pizza-eating experience, with the juxtaposition of hot and cold elements in every bite.
+
+## New York City
+
+New York City has had a major influence on the perception of pizza for decades. Here are the key characteristics of this iconic style of pizza:
+
+* Hand-tossed crust: This thin, crispy crust is made with high-gluten flour and stretched by hand to create a soft, bubbly interior.
+* Sweet sauce: The sauce is typically made with canned tomatoes, olive oil, garlic, sugar, and herbs. The sugar helps to balance out the acidity of the tomatoes.
+* Foldable slices: New York-style pizza is typically cut into eight large, triangular slices that are easy to eat on the go.
+Coal-fired oven: New York-style pizza is traditionally cooked in a coal-fired oven, but gas ovens are also commonly used.
+
+Whether it's shown being devoured by the Teenage Mutant Ninja Turtles or used by Spiderman as a prop, this style of pizza would always be deemed as one of the symbols of New York City. 

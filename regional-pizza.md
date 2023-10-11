@@ -25,3 +25,17 @@ New York City has had a major influence on the perception of pizza for decades. 
 Coal-fired oven: New York-style pizza is traditionally cooked in a coal-fired oven, but gas ovens are also commonly used.
 
 Whether it's shown being devoured by the Teenage Mutant Ninja Turtles or used by Spiderman as a prop, this style of pizza would always be deemed as one of the symbols of New York City. 
+
+## Mochi Teriyaki Chicken Pizza (from Japan)
+
+Pizza is popular in Japan too. You can try both classic and Japanese-style pizzas from Pizza chain restaurants. Mochi Teriyaki Chicken Pizza is one of the Japanese-style pizzas. Mochi(rice cake) topping gives a distinctive texture to a pizza.
+
+### Toppings
+
+* Teriyaki Chicken
+* Mochi (Rice Cake)
+* Corn
+* Onions
+* Mayonnaise
+* Cheese
+* Nori Flakes

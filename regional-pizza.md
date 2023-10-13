@@ -39,3 +39,63 @@ Pizza is popular in Japan too. You can try both classic and Japanese-style pizza
 * Mayonnaise
 * Cheese
 * Nori Flakes
+
+
+# Chicken Tikka Masala Pizza ( India )
+
+This is an easy and delicious pizza recipe. It’s full of those classic tikka masala flavors that you know and love. The exotic flavors of chicken tikka masala pair wonderfully with the ooey-gooey cheesiness of a pizza. It’s an incredible combination of spices and rich cheese. Although this recipe has a long list of ingredients, it’s worth it and It’s not difficult to make.
+
+## Ingredients
+
+- Pizza dough (store-bought or homemade)
+- 10 oz. skinless and boneless chicken breast (cut into 1/2-inch cubes)
+- 1 tablespoon butter
+- 2 cloves garlic (minced)
+- 1/2 jalapeno (deseeded)
+- Salt to taste
+- 1 12- inches store-bought pizza crust or three (3 7-inches mini pizza crusts)
+- Olive oil for brushing
+- 1/4 onion (thinly sliced)
+- 1 cup mozzarella cheese
+- Handful of coriander leaves/cilantro (chopped, save some for garnish)
+
+## Marinade
+
+- 1/2 teaspoon ground cumin
+- 1/2 teaspoon ground cayenne pepper
+- 1/2 teaspoon ground garam masala
+- 1/2 teaspoon minced fresh ginger
+- 1/4 teaspoon salt
+- 1/4 teaspoon ground black pepper
+- 1 tablespoon lemon juice
+- 2 tablespoons plain yogurt
+- 1 pinch cinnamon
+
+## Tomato Sauce
+
+- 4 oz. tomato sauce
+- 2 tablespoons plain yogurt
+- 2 tablespoons heavy cream
+
+## Spice Mix
+- 1/2 teaspoon cumin
+- 1/2 teaspoon paprika
+- 1/2 teaspoon garam masala
+
+## Instructions
+
+1. In a bowl, marinade the chicken with the Marinade for at least an hour in the refrigerator.
+
+2. Line a layer of aluminum foil in a baking pan for grilling. Spread the marinated chicken in a single   layer on the pan, discard the remaining marinade. Grill the chicken at 450°F (232°C) for 6-7 minutes, turning at half time.
+
+3. While the chicken is cooking, prepare the Tomato Sauce and Spice Mix in separate bowls. Remove the chicken from the pan when it is done and discard the juice.
+
+4. Heat a small sauce pan and melt the butter. Sauté the garlic and jalapeno until aromatic. Pour in the Spice Mix and sauté until fragrant, about 1-2 minutes on medium heat. Remove the jalapeno and discard.
+
+5. Add in the Tomato Sauce and stir well to mix. Sprinkle salt to taste and continue to simmer until the sauce thickens, another 2 minutes. Turn off the heat and add the chicken meat into the sauce and mix well.
+
+6. Pre-heat the oven to 450°F (232°C). Place the pizza crust on a pizza pan and brush lightly with olive oil. Spread the sauce/gravy on the pizza crust. Sprinkle 1/2 cup of cheese. Arrange the chicken on the pizza. Top it with the sliced onions, chopped cilantro and the remaining cheese.
+
+7.Reduce the temperature to 425°F (218°C). Bake the pizza for 8-10 minutes. Remove the pizza from the pan when it is done and garnish the remaining chopped cilantro.
+
+- Notes : Bake according to the instructions on your pizza crust. Depending on the type of crusts you buy, the time and temperature may be slightly different. If you prefer, you can stir fry the chicken instead of grilling it.

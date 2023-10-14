@@ -183,7 +183,6 @@ The best thing about this pizza is that any food item can be used as its topping
 ## Ingredients
 The following ingredients are needed for a 12-inch-diameter pizza:
 
-### Pizza Dough
 NOTE: If you want a slender pizza crust but still 12 inches in diameter, use half the quantities of ingredients.
 
 - 300g plain flour 
@@ -194,7 +193,7 @@ NOTE: If you want a slender pizza crust but still 12 inches in diameter, use hal
 - One teaspoon of sugar
 - Margarine (for the oven tray)
 
-*For the toppings*
+## Pizza Toppings
 - 250g Mozzarella cheese
 - Four tablespoons of Tomato stew
 - Two mushrooms
@@ -203,11 +202,10 @@ NOTE: If you want a slender pizza crust but still 12 inches in diameter, use hal
 - Green bell pepper
 - Two tablespoons of olive oil
 
-## Instructions
+## Pizza Crust
 ### Mix the pizza dough
-
-1. Sieve the plain flour into a clean, dry bowl. The bowl should be large enough for mixing the flour and other ingredients. It is required to sift the flour because it airs it and breaks up any available lumps, making it easier to mix.
-2. Add the yeast to the dry flour and stir to mix. This is important so the salt that is added next does not touch the yeast.
+1. Sieve the plain flour into a clean, dry bowl. The bowl should be large enough for mixing the flour and other ingredients. It is required to sift the flour because it airs the flour and breaks up any available lumps, making it easier to mix.
+2. Add the yeast to the dry flour and stir to mix. This is important so the salt, which is added next, does not touch the yeast.
 3. Put in the sugar and salt and mix thoroughly
 4. Add the olive oil and mix thoroughly
 5. Begin adding the warm water and mix it up with a spatula at the same time till all the water has been engrossed. Then continue by hand till even soft dough is achieved. Fold up the dough and lay it in the bowl.
@@ -215,7 +213,7 @@ NOTE: If you want a slender pizza crust but still 12 inches in diameter, use hal
 
 ## Prepare the oven tray
 Place the pizza in an oven tray. If you happen to have a pizza stone, feel free to use that instead.
-The Pizza will be placed in an oven tray and baked in a standard kitchen oven.
+The pizza will be placed in an oven tray and baked in a standard kitchen oven.
 
 ### Instructions 
 1. Rub some margarine in the oven tray, and ensure that every part of the tray is covered with a thin layer of margarine. Soft butter can be an alternative here
@@ -232,7 +230,7 @@ The Pizza will be placed in an oven tray and baked in a standard kitchen oven.
 ### Instructions 
 1. While waiting for the Pizza dough to rise a second time, go on and wash the vegetables used for the pizza topping, slice them, and set aside
 2. Fry the minced beef in a small quantity of vegetable oil until it turns pale.
-3. Get the tomato sauce ready for the pizza. Here we made use of stock cube, onion powder salt, and some Tomato Stew i.e. fresh tomato puree fried in vegetable oil. Add the stock cube, onion powder, and salt to the vegetable oil. You can also add any ingredient of your choice.
+3. Get the tomato sauce ready for the pizza. Here we made use of stock cube, onion powder salt, and some Tomato stews i.e. fresh tomato puree fried in vegetable oil. Add the stock cube, onion powder, and salt to the vegetable oil. You can also add any ingredient of your choice.
 
 ## Back to the Pizza dough
 ### Instructions

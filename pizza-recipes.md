@@ -174,16 +174,16 @@ Embrace this blend of flavors as you forgo store-brought sauce for this nuturiou
 6. Cook for 30 mins, adjust water if thick.
 
 7. Let it cool. Your pizza sauce is ready to use.
+   
 ## Nigeria pizza
 ![Nigeria-suya-pizza](images/nigeria-suya-pizza.jpg)
 
-The first experience with this snack might not be interesting. It may taste strange for your first time especially for those with Nigeria taste bud.lol! But not to worry with time you will get used to taste and will start running back for more of it.
-The interesting thing about these snacks is any food item can be used as its topping so far as the combo pleases you.
-
+The first experience with this snack might taste strange, especially for those without Nigerian tastebuds lol! 😁 But not to worry, with time you will get used to the taste and will start running back for more! 😁
+The best thing about this pizza is that any food item can be used as its topping as long as the combo pleases you.
 ## Ingredients
-The following ingredients are neeeded for a 12-inch diameter pizza.
+The following ingredients are needed for a 12-inch diameter pizza.
 
-*For the pizza dough*
+### Pizza Dough
 The following quantities of ingredients make a chunky pizza crust. If you want a slender pizza crust but still 12 inches diameter, use half the quantities of ingredients.
 
 - 300g plain flour 

@@ -174,3 +174,75 @@ Embrace this blend of flavors as you forgo store-brought sauce for this nuturiou
 6. Cook for 30 mins, adjust water if thick.
 
 7. Let it cool. Your pizza sauce is ready to use.
+   
+## Nigeria pizza
+![Nigeria-suya-pizza](https://github.com/open-sauced/pizza-verse/blob/737c1cbbeee5aee9a8ce0dd20f6ceb79eb00bbeb/images/nigeria-pizza.jpg)
+
+The first experience with this snack might taste strange, especially for those without Nigerian tastebuds lol! 😁 But not to worry, with time you will get used to the taste and will start running back for more! 😁
+The best thing about this pizza is that any food item can be used as its topping as long as the combo pleases you.
+## Ingredients
+The following ingredients are needed for a 12-inch-diameter pizza:
+
+NOTE: If you want a slender pizza crust but still 12 inches in diameter, use half the quantities of ingredients.
+
+- 300g plain flour 
+- 3g or 2 teaspoons yeast
+- Four tablespoons olive oil
+- 150ml of warm water
+- One teaspoon of salt
+- One teaspoon of sugar
+- Margarine (for the oven tray)
+
+## Pizza Toppings
+- 250g Mozzarella cheese
+- Four tablespoons of Tomato stew
+- Two mushrooms
+- One tablespoon of minced/ground meat
+- Red bell pepper
+- Green bell pepper
+- Two tablespoons of olive oil
+
+## Pizza Crust
+### Mix the pizza dough
+1. Sieve the plain flour into a clean, dry bowl. The bowl should be large enough for mixing the flour and other ingredients. It is required to sift the flour because it airs the flour and breaks up any available lumps, making it easier to mix.
+2. Add the yeast to the dry flour and stir to mix. This is important so the salt, which is added next, does not touch the yeast.
+3. Put in the sugar and salt and mix thoroughly
+4. Add the olive oil and mix thoroughly
+5. Begin adding the warm water and mix it up with a spatula at the same time till all the water has been engrossed. Then continue by hand till even soft dough is achieved. Fold up the dough and lay it in the bowl.
+6. Cover the bowl with a thin plastic film or warm towel and place it in a warm place for an hour for the dough to rise. You can place it in a turned-off oven that can serve as a warm place.
+
+## Prepare the oven tray
+Place the pizza in an oven tray. If you happen to have a pizza stone, feel free to use that instead.
+The pizza will be placed in an oven tray and baked in a standard kitchen oven.
+
+### Instructions 
+1. Rub some margarine in the oven tray, and ensure that every part of the tray is covered with a thin layer of margarine. Soft butter can be an alternative here
+2. Sprinkle some flour on it; ensure that the flour covers all the margarine. When done, pour out the excess flour.
+
+## Continue with the Pizza dough 
+### Instructions
+7. After an hour, bring out the pizza dough from the warm place. The pizza dough will look swollen.
+8. Knead it for a bit and move it to the oven tray.
+9. In a circular motion, spread the dough until it is 12 inches in diameter. The dough may resist as you do this but continue you can get the dough to spread as wide as possible.
+10. Cover the dough and place it in a warm place to rise yet again for 45 minutes.
+
+## Prepare the Pizza toppings
+### Instructions 
+1. While waiting for the Pizza dough to rise a second time, go on and wash the vegetables used for the pizza topping, slice them, and set aside
+2. Fry the minced beef in a small quantity of vegetable oil until it turns pale.
+3. Get the tomato sauce ready for the pizza. Here we made use of stock cube, onion powder salt, and some Tomato stews i.e. fresh tomato puree fried in vegetable oil. Add the stock cube, onion powder, and salt to the vegetable oil. You can also add any ingredient of your choice.
+
+## Back to the Pizza dough
+### Instructions
+1. Bring out the puffed dough from the oven and spread it out more to manipulate it again
+2. Spread some more olive oil on the dough.
+3. Add the tomato sauce.
+4. Sprinkle the cheese on top.
+
+## Back to Baking!
+### Instructions
+1. Place the pizza in a preheated oven (180°C or 360F) and bake for 20-25 minutes or till the pizza crust is light brown and the cheese has turned watery by the heat.
+2. The pizza should be removed from the oven and place the rest of the toppings on top.
+3. Place it back in the oven and bake for a maximum of 2 minutes; of course, you do not want the vegetables to become dull.
+
+Enjoy with a chilled soft drink.

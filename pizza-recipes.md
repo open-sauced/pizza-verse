@@ -176,7 +176,7 @@ Embrace this blend of flavors as you forgo store-brought sauce for this nuturiou
 7. Let it cool. Your pizza sauce is ready to use.
 
 
-# Chicken Tikka Masala Pizza ( India )
+# Chicken Tikka Masala Pizza
 
 This is an easy and delicious pizza recipe. It’s full of those classic tikka masala flavors that you know and love. The exotic flavors of chicken tikka masala pair wonderfully with the ooey-gooey cheesiness of a pizza. It’s an incredible combination of spices and rich cheese. Although this recipe has a long list of ingredients, it’s worth it and It’s not difficult to make.
 

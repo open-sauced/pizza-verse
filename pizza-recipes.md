@@ -181,10 +181,10 @@ Embrace this blend of flavors as you forgo store-brought sauce for this nuturiou
 The first experience with this snack might taste strange, especially for those without Nigerian tastebuds lol! 😁 But not to worry, with time you will get used to the taste and will start running back for more! 😁
 The best thing about this pizza is that any food item can be used as its topping as long as the combo pleases you.
 ## Ingredients
-The following ingredients are needed for a 12-inch diameter pizza.
+The following ingredients are needed for a 12-inch-diameter pizza:
 
 ### Pizza Dough
-The following quantities of ingredients make a chunky pizza crust. If you want a slender pizza crust but still 12 inches diameter, use half the quantities of ingredients.
+NOTE: If you want a slender pizza crust but still 12 inches in diameter, use half the quantities of ingredients.
 
 - 300g plain flour 
 - 3g or 2 teaspoons yeast
@@ -196,7 +196,7 @@ The following quantities of ingredients make a chunky pizza crust. If you want a
 
 *For the toppings*
 - 250g Mozzarella cheese
-- Four table spoons of Tomato stew
+- Four tablespoons of Tomato stew
 - Two mushrooms
 - One tablespoon of minced/ground meat
 - Red bell pepper
@@ -204,48 +204,47 @@ The following quantities of ingredients make a chunky pizza crust. If you want a
 - Two tablespoons of olive oil
 
 ## Instructions
-- Mix the pizza dough
+### Mix the pizza dough
 
-1. Sieve the plain flour into a clean dry bowl. The bowl should be large enough for mixing the flour and other ingredients. Why it is required to sift the flour is because it airs the flour and breaks up any available lumps making it easier to mix.
-2. Add the yeast to the dry flour and stir to mix. This is important so the salt which is added next does not touch the yeast.
+1. Sieve the plain flour into a clean, dry bowl. The bowl should be large enough for mixing the flour and other ingredients. It is required to sift the flour because it airs it and breaks up any available lumps, making it easier to mix.
+2. Add the yeast to the dry flour and stir to mix. This is important so the salt that is added next does not touch the yeast.
 3. Put in the sugar and salt and mix thoroughly
-4. Then add the olive oil and mix thoroughly
-5. Begin adding the warm water and mix up with a spatula at the same time till all the water has been engrossed. Then continue by hand till even soft dough is achieved. Fold up the dough and lay it in the bowl.
-6. Cover the bowl with a thin plastic film/warm towel and place in a warm place for an hour for the dough to rise. You can place it in a turned off oven that can serve as a warm place.
+4. Add the olive oil and mix thoroughly
+5. Begin adding the warm water and mix it up with a spatula at the same time till all the water has been engrossed. Then continue by hand till even soft dough is achieved. Fold up the dough and lay it in the bowl.
+6. Cover the bowl with a thin plastic film or warm towel and place it in a warm place for an hour for the dough to rise. You can place it in a turned-off oven that can serve as a warm place.
 
-*Prepare the oven tray*
-Usually, Pizza is laid on a pizza stone and baked in a clay oven, there are mostly used by those living but unless you live in a beautiful Italian countryside, what most of us have is a standard kitchen oven.
-And you most probably do not have a pizza stone.
-The Pizza will be placed in an oven tray and bake it in a standard kitchen oven.
+## Prepare the oven tray
+Place the pizza in an oven tray. If you happen to have a pizza stone, feel free to use that instead.
+The Pizza will be placed in an oven tray and baked in a standard kitchen oven.
 
-## Instructions 
-1. Rub some margarine in the oven tray, ensure that every part of the tray is covered with a thin layer of margarine. Soft butter can be an alternative here
+### Instructions 
+1. Rub some margarine in the oven tray, and ensure that every part of the tray is covered with a thin layer of margarine. Soft butter can be an alternative here
 2. Sprinkle some flour on it; ensure that the flour covers all the margarine. When done, pour out the excess flour.
 
-*Continue with the Pizza dough*
-## Instructions
-7. After an hour, bring out the Pizza dough from the warm place. You’ll observe that the pizza dough is swollen.
+## Continue with the Pizza dough 
+### Instructions
+7. After an hour, bring out the pizza dough from the warm place. The pizza dough will look swollen.
 8. Knead it for a bit and move it to the oven tray.
-9. In circular motion, spread the dough until it is 12 inches in diameter. The dough may resist as you do this but continue you can get the dough to spread as wide as possible.
-10. After that, cover the dough and place in a warm place to rise yet again for 45 minutes.
+9. In a circular motion, spread the dough until it is 12 inches in diameter. The dough may resist as you do this but continue you can get the dough to spread as wide as possible.
+10. Cover the dough and place it in a warm place to rise yet again for 45 minutes.
 
-*Prepare the Pizza toppings*
-## Instructions
-1. While waiting for the Pizza dough to rise a second time, go on and wash the vegetables use for the pizza topping , slice them and set aside
-2. Fry the minced beef in a little quantity of vegetable oil until it turns pale.
-3. Get the tomato sauce ready for the pizza. Here we made use of stock cube, onion powder and salt and some Tomato Stew i.e fresh tomato puree fried in vegetable oil. Add the stock cube, onion powder and salt to the vegetable oil. You can also add any ingredient of your choice.
+## Prepare the Pizza toppings
+### Instructions 
+1. While waiting for the Pizza dough to rise a second time, go on and wash the vegetables used for the pizza topping, slice them, and set aside
+2. Fry the minced beef in a small quantity of vegetable oil until it turns pale.
+3. Get the tomato sauce ready for the pizza. Here we made use of stock cube, onion powder salt, and some Tomato Stew i.e. fresh tomato puree fried in vegetable oil. Add the stock cube, onion powder, and salt to the vegetable oil. You can also add any ingredient of your choice.
 
-*Back to the Pizza dough*
-## Instructions
-11. Its 45 minutes already and by now the pizza dough must have puffed up again. Bring it out from its warm place and spread it out more to manipulate it again
-12. Spread some quantity of the olive oil on the dough.
-13. Spread the tomato sauce.
-14. Then sprinkle the cheese on top.
+## Back to the Pizza dough
+### Instructions
+1. Bring out the puffed dough from the oven and spread it out more to manipulate it again
+2. Spread some more olive oil on the dough.
+3. Add the tomato sauce.
+4. Sprinkle the cheese on top.
 
-*Bake and enjoy!*
-## Instructions
+## Back to Baking!
+### Instructions
 1. Place the pizza in a preheated oven (180°C or 360F) and bake for 20-25 minutes or till the pizza crust is light brown and the cheese has turned watery by the heat.
 2. The pizza should be removed from the oven and place the rest of the toppings on top.
-3. Place it back in the oven and bake for a maximum of 2 minutes; of course you do not want the vegetables to become dull.
+3. Place it back in the oven and bake for a maximum of 2 minutes; of course, you do not want the vegetables to become dull.
 
-Pizza can be serve with a chilled soft drink. 
+Enjoy with a chilled soft drink.

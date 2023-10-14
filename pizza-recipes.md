@@ -176,7 +176,7 @@ Embrace this blend of flavors as you forgo store-brought sauce for this nuturiou
 7. Let it cool. Your pizza sauce is ready to use.
    
 ## Nigeria pizza
-![Nigeria-suya-pizza](images/nigeria-suya-pizza.jpg)
+![Nigeria-suya-pizza](/images/nigeria-pizza.jpg)
 
 The first experience with this snack might taste strange, especially for those without Nigerian tastebuds lol! 😁 But not to worry, with time you will get used to the taste and will start running back for more! 😁
 The best thing about this pizza is that any food item can be used as its topping as long as the combo pleases you.

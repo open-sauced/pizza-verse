@@ -174,9 +174,81 @@ Embrace this blend of flavors as you forgo store-brought sauce for this nuturiou
 6. Cook for 30 mins, adjust water if thick.
 
 7. Let it cool. Your pizza sauce is ready to use.
+   
+## Nigeria pizza
+![Nigeria-suya-pizza](https://github.com/open-sauced/pizza-verse/blob/737c1cbbeee5aee9a8ce0dd20f6ceb79eb00bbeb/images/nigeria-pizza.jpg)
+
+The first experience with this snack might taste strange, especially for those without Nigerian tastebuds lol! 😁 But not to worry, with time you will get used to the taste and will start running back for more! 😁
+The best thing about this pizza is that any food item can be used as its topping as long as the combo pleases you.
+## Ingredients
+The following ingredients are needed for a 12-inch-diameter pizza:
+
+NOTE: If you want a slender pizza crust but still 12 inches in diameter, use half the quantities of ingredients.
+
+- 300g plain flour 
+- 3g or 2 teaspoons yeast
+- Four tablespoons olive oil
+- 150ml of warm water
+- One teaspoon of salt
+- One teaspoon of sugar
+- Margarine (for the oven tray)
+
+## Pizza Toppings
+- 250g Mozzarella cheese
+- Four tablespoons of Tomato stew
+- Two mushrooms
+- One tablespoon of minced/ground meat
+- Red bell pepper
+- Green bell pepper
+- Two tablespoons of olive oil
+
+## Pizza Crust
+### Mix the pizza dough
+1. Sieve the plain flour into a clean, dry bowl. The bowl should be large enough for mixing the flour and other ingredients. It is required to sift the flour because it airs the flour and breaks up any available lumps, making it easier to mix.
+2. Add the yeast to the dry flour and stir to mix. This is important so the salt, which is added next, does not touch the yeast.
+3. Put in the sugar and salt and mix thoroughly
+4. Add the olive oil and mix thoroughly
+5. Begin adding the warm water and mix it up with a spatula at the same time till all the water has been engrossed. Then continue by hand till even soft dough is achieved. Fold up the dough and lay it in the bowl.
+6. Cover the bowl with a thin plastic film or warm towel and place it in a warm place for an hour for the dough to rise. You can place it in a turned-off oven that can serve as a warm place.
+
+## Prepare the oven tray
+Place the pizza in an oven tray. If you happen to have a pizza stone, feel free to use that instead.
+The pizza will be placed in an oven tray and baked in a standard kitchen oven.
+
+### Instructions 
+1. Rub some margarine in the oven tray, and ensure that every part of the tray is covered with a thin layer of margarine. Soft butter can be an alternative here
+2. Sprinkle some flour on it; ensure that the flour covers all the margarine. When done, pour out the excess flour.
+
+## Continue with the Pizza dough 
+### Instructions
+7. After an hour, bring out the pizza dough from the warm place. The pizza dough will look swollen.
+8. Knead it for a bit and move it to the oven tray.
+9. In a circular motion, spread the dough until it is 12 inches in diameter. The dough may resist as you do this but continue you can get the dough to spread as wide as possible.
+10. Cover the dough and place it in a warm place to rise yet again for 45 minutes.
+
+## Prepare the Pizza toppings
+### Instructions 
+1. While waiting for the Pizza dough to rise a second time, go on and wash the vegetables used for the pizza topping, slice them, and set aside
+2. Fry the minced beef in a small quantity of vegetable oil until it turns pale.
+3. Get the tomato sauce ready for the pizza. Here we made use of stock cube, onion powder salt, and some Tomato stews i.e. fresh tomato puree fried in vegetable oil. Add the stock cube, onion powder, and salt to the vegetable oil. You can also add any ingredient of your choice.
+
+## Back to the Pizza dough
+### Instructions
+1. Bring out the puffed dough from the oven and spread it out more to manipulate it again
+2. Spread some more olive oil on the dough.
+3. Add the tomato sauce.
+4. Sprinkle the cheese on top.
+
+## Back to Baking!
+### Instructions
+1. Place the pizza in a preheated oven (180°C or 360F) and bake for 20-25 minutes or till the pizza crust is light brown and the cheese has turned watery by the heat.
+2. The pizza should be removed from the oven and place the rest of the toppings on top.
+3. Place it back in the oven and bake for a maximum of 2 minutes; of course, you do not want the vegetables to become dull.
+
+Enjoy with a chilled soft drink.
 
 
-# Chicken Tikka Masala Pizza
+# Chicken Tikka Masala Pizza 
 
 This is an easy and delicious pizza recipe. It’s full of those classic tikka masala flavors that you know and love. The exotic flavors of chicken tikka masala pair wonderfully with the ooey-gooey cheesiness of a pizza. It’s an incredible combination of spices and rich cheese. Although this recipe has a long list of ingredients, it’s worth it and It’s not difficult to make.
 
@@ -219,18 +291,18 @@ This is an easy and delicious pizza recipe. It’s full of those classic tikka m
 
 ## Instructions
 
-1. In a bowl, marinade the chicken with the Marinade for at least an hour in the refrigerator.
+1. In a bowl, add the marinade's ingredients to the chicken, combine them together, and let the chicken marinade in the refrigerator for at least an hour.
 
-2. Line a layer of aluminum foil in a baking pan for grilling. Spread the marinated chicken in a single   layer on the pan, discard the remaining marinade. Grill the chicken at 450°F (232°C) for 6-7 minutes, turning at half time.
+2. Line a layer of aluminum foil in a baking pan for grilling. Spread the marinated chicken in a single layer on the pan and pour the remaining marinade on the chicken. Grill the chicken at 450°F (232°C) for 6-7 minutes, turning at half time.
 
-3. While the chicken is cooking, prepare the Tomato Sauce and Spice Mix in separate bowls. Remove the chicken from the pan when it is done and discard the juice.
+3. While the chicken is cooking, prepare the tomato sauce and spice mix in separate bowls. Remove the chicken from the pan when it is done and discard the juice.
 
-4. Heat a small sauce pan and melt the butter. Sauté the garlic and jalapeno until aromatic. Pour in the Spice Mix and sauté until fragrant, about 1-2 minutes on medium heat. Remove the jalapeno and discard.
+4. Heat a small saucepan and melt the butter. Sauté the garlic and jalapeno until aromatic. Pour in the spice mix and sauté until fragrant, about 1-2 minutes on medium heat. Remove the jalapeno and discard. 
 
-5. Add in the Tomato Sauce and stir well to mix. Sprinkle salt to taste and continue to simmer until the sauce thickens, another 2 minutes. Turn off the heat and add the chicken meat into the sauce and mix well.
+5. Add in the tomato sauce and stir well to mix. Sprinkle salt to taste and continue to simmer until the sauce thickens, another 2 minutes. Turn off the heat and add the chicken into the sauce and mix well.
 
 6. Pre-heat the oven to 450°F (232°C). Place the pizza crust on a pizza pan and brush lightly with olive oil. Spread the sauce/gravy on the pizza crust. Sprinkle 1/2 cup of cheese. Arrange the chicken on the pizza. Top it with the sliced onions, chopped cilantro and the remaining cheese.
 
 7.Reduce the temperature to 425°F (218°C). Bake the pizza for 8-10 minutes. Remove the pizza from the pan when it is done and garnish the remaining chopped cilantro.
 
-- Notes : Bake according to the instructions on your pizza crust. Depending on the type of crusts you buy, the time and temperature may be slightly different. If you prefer, you can stir fry the chicken instead of grilling it.
+ **Note:** Bake according to the instructions on your store-bought pizza crust. Depending on the type of crusts you buy, the time and temperature may be slightly different. If you prefer, you can stir fry the chicken instead of grilling it.

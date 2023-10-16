@@ -249,6 +249,7 @@ Enjoy with a chilled soft drink.
 
 
 # Chicken Tikka Masala Pizza 
+![Chicken Tikka Masala Pizza](images/chicken-tikka-pizza.jpg)
 
 This is an easy and delicious pizza recipe. It’s full of those classic tikka masala flavors that you know and love. The exotic flavors of chicken tikka masala pair wonderfully with the ooey-gooey cheesiness of a pizza. It’s an incredible combination of spices and rich cheese. Although this recipe has a long list of ingredients, it’s worth it and It’s not difficult to make.
 

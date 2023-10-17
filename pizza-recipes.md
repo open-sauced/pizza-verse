@@ -10,6 +10,8 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Pepperoni Pizza](#pepperoni-pizza)
 - [4 Cheese Pizza🧀](#4-cheese-pizza )
 - [Spicy Pizza sauce](#spicy-pizza-sauce)
+- [Nigeria pizza](#nigeria-pizza)
+- [Chicken Tikka Masala Pizza](#chicken-tikka-masala-pizza)
 
 
 ### Margherita Pizza
@@ -23,6 +25,12 @@ Savor the scrumptiousness of a 4 Cheese Pizza, where four cheeses come together 
 
 ### Spicy Pizza Sauce
 Home-made rich sensation sauce that will enchant your tongue in a burst of flavors. This combination of the sauce on any pizza will send you reeling backward in a rush of fiery delight 
+
+### Nigeria pizza
+Nigerian Pizza is a thinly rolled bread dough crust, typically topped before baking with tomato sauce, cheese, and other ingredients such as meat, vegetables, or fruit.
+
+### Chicken Tikka Masala Pizza
+Chicken Tikka Masala Pizza is a cheesy Indian pizza topped with delicious chicken tikka masala. It is the best and easiest homemade pizza recipe ever.
 
 # Margherita Pizza (Michelin Quality)
 

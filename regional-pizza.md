@@ -46,14 +46,14 @@ Pizza is popular in Japan too. You can try both classic and Japanese-style pizza
 Buddy's Pizza is the **ORIGINAL** Detroit Style pizza. Started at the famous Buddy's Rendezvous located at 6 Mile & Conant in Detroit, Michigan by Gus Guerra and team in 1946. From the Buddy's Pizza website.
 
 > The style flips traditional pizza on its head by beginning with double proofed dough perfectly fit to a square pan – a process that allows the dough to rise and be stretched twice – followed by the backwards layering of toppings.
-
+>
 > [USA Today](https://www.usatoday.com/story/travel/columnist/greatamericanbites/2018/10/17/pizza-regional-styles/1666339002/) called Buddy’s Pizza “Pilgrimage-worthy pizza” and [The Daily Meal](https://www.thedailymeal.com/eat/101-best-pizzas-america-2020/slide-97) named it #6 of the 101 Best Pizzas in America.
-
+>
 > The pepperoni is placed directly on the dough allowing the rich flavors of the meat to be absorbed into the crust. Next, crumbled Wisconsin brick cheese – a proprietary blend created just for Buddy’s – is sprinkled across the pie before the other toppings. Finally, to finish off the unique look, three wide stripes of sauce are skimmed across the top of the pizza before being baked to perfection.
 
 Buddy's is a staple in the Detroit community when it comes to pizza!
 
-[Buddy's Rendezvous on six mile and conant.](https://images.squarespace-cdn.com/content/v1/5dfa2bfbdaf82940e4afd01f/1584813286927-J0DU191I8UAB6SMVCMPT/six-mile.jpg?format%253D2500w)
+<img src="./images/six-mile.jpg" width="300" alt="Buddy's Rendezvous on six mile and conant.">
 
 ### The OG Detroit
 

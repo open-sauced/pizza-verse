@@ -30,3 +30,5 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
    - $12,000 USD and is called Louis XIII Pizza
 3. What is the most popular pizza topping in the United States?
    - Pepperoni
+4. How much pizza does the United States population consume on any given day?
+   - 13%

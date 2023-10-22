@@ -33,7 +33,8 @@ Nigerian Pizza is a thinly rolled bread dough crust, typically topped before bak
 Chicken Tikka Masala Pizza is a cheesy Indian pizza topped with delicious chicken tikka masala. It is the best and easiest homemade pizza recipe ever.
 
 ### Old Forge Double Crust Stuffed White Pizza
-Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania. NEPA (Where I’m from) has so many different types of pizza. Also known as “Stuffed Pizza” to some, this pizza is essentially a giant (and delicious) grilled cheese sandwich!  It is flavorful to the extreme, great for gatherings and parties, and very versatile.  It also happens to be very easy to make from simple ingredients from the grocery store.
+Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania.
+ Also known as “Stuffed Pizza” to some, this pizza is essentially a giant (and delicious) grilled cheese sandwich!  It is flavorful to the extreme, great for gatherings and parties, and very versatile.  It also happens to be very easy to make from simple ingredients from the grocery store.
 
 # Margherita Pizza (Michelin Quality)
 

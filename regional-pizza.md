@@ -59,3 +59,13 @@ Buddy's is a staple in the Detroit community when it comes to pizza!
 - Pepperoni
 - Sauce
 - Cheese
+
+### Old Forge
+
+"Old Forge, Pennsylvania, is a former mining town. Historically, while men worked in the coal mines, their wives masterminded a way to feed them. They began making pizza in rectangular trays because it was an efficient way to feed a lot of people.
+
+The pizza boasts a cracker-like crust that’s thicker than thin crust but thinner than deep dish. It’s light and airy and has a touch of sugar for sweetness. Old Forge-style uses a distinct blend of American, mozzarella and cheddar cheeses. The red pizza features standard tomato sauce with toppings that range from pepperoni and meatballs to shrimp and clams. The white is stuffed with cheese and ingredients such as spinach and broccoli (no sauce), with a layer of dough on the top and the bottom.
+
+The crust is baked in a conveyor belt oven set at more than 500°F. “Then, we top it with a standard tomato sauce and bake it again,” says Ashley Genell Burke, granddaughter of one of the founders of Arcaro & Genell Pizzeria in Old Forge, which has been serving Old Forge-style pizza since 1962.
+
+The Old Forge favorite is in such hot demand that Genell ships the rectangular pizza all over the world. A whole pizza is “a tray,” not a pie. And there are no slices, just square cuts." [Regional styles ranging from Detroit to Old Forge are spreading across the country.](https://wearechefs.com/hot-stuff/#:~:text=The%20pizza%20boasts%20a%20cracker,American%2C%20mozzarella%20and%20cheddar%20cheeses.)

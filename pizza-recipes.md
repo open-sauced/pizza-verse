@@ -320,7 +320,7 @@ This is an easy and delicious pizza recipe. It’s full of those classic tikka m
  **Note:** Bake according to the instructions on your store-bought pizza crust. Depending on the type of crusts you buy, the time and temperature may be slightly different. If you prefer, you can stir-fry the chicken instead of grilling it.
 
 # Old Forge Double Crust Stuffed White Pizza
-![Old Forge Double Crust Stuffed White Pizza](images/)
+![Old Forge Double Crust Stuffed White Pizza](images/Double-Crust-White-Pizza-Recipe)
 
 Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania. NEPA (Where I’m from) has so many different types of pizza. Also known as “Stuffed Pizza” to some, this pizza is essentially a giant (and delicious) grilled cheese sandwich!  It is flavorful to the extreme, great for gatherings and parties, and very versatile. It also happens to be very easy to make from simple ingredients from the grocery store.
 
@@ -355,11 +355,11 @@ Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania
 
 3. Grease the pan with shortening, lard, or butter. I like solids, not oils because they are more tacky and help pin the dough in the corners and sides so the dough doesn’t “snap back” and shrink.
 
-3. Roll Out the first Dough and Put in the Pan. Always use room-temperature dough for this step.  Take it out of the fridge for 30 to 60 minutes before using. You can use your hands or a rolling pin to press out the dough on the counter to a size just a tiny bit smaller than the size of the pan. 
+4. Roll Out the first Dough and Put in the Pan. Always use room-temperature dough for this step.  Take it out of the fridge for 30 to 60 minutes before using. You can use your hands or a rolling pin to press out the dough on the counter to a size just a tiny bit smaller than the size of the pan. 
 
-4. Carefully lift up the dough and fit it into the pan, pressing it lightly and evenly into the sides and corners of the pan. If the dough shrinks and pulls away from the sides of the pan, cover with plastic wrap and allow to sit for 15 minutes, then come back and press it out to the edges.
+5. Carefully lift up the dough and fit it into the pan, pressing it lightly and evenly into the sides and corners of the pan. If the dough shrinks and pulls away from the sides of the pan, cover with plastic wrap and allow to sit for 15 minutes, then come back and press it out to the edges.
 
-5. Add the Cheese. You’ll want to add a generous amount of cheese to the pizza. Although amounts will differ by pan and preference, I like to have a 1-inch high flat pile of cheese uniformly spread across the pizza leaving about 1 finger-width (1/2 inch or so) from the edge of the pan.
+6. Add the Cheese. You’ll want to add a generous amount of cheese to the pizza. Although amounts will differ by pan and preference, I like to have a 1-inch high flat pile of cheese uniformly spread across the pizza leaving about 1 finger-width (1/2 inch or so) from the edge of the pan.
 
 7. Season the Cheese.  Using the seasonings from the list above, sprinkle seasoning on the cheese. This is an important step as it provides flavor to what will be a very thick and heavy pizza.
 
@@ -380,8 +380,3 @@ Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania
 3. Rotate the pizza after 10 minutes of baking to ensure that it browns and cooks evenly.
 
 4. ENJOY!
-
-
-
-
-

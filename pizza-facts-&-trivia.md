@@ -18,6 +18,7 @@ Some say that the queen’s favorite pizza toppings were mozzarella, tomato, and
 9. 93% of Americans order a pizza atleast once in a month. Pizza is much more than America's favorite comfort food.It has become a staple in their diet. More than 93% of Americans order a pizza at least once a month. This means that it is a major part of the American diet. And probably the most delicious part of their diet too.
 10. Pizza was first developed as an easy and affordable meal for low-income families. Pizza may be an international favorite today but it has its origins as a last resort meal for low-income families in Naples.
 While pizza today is enjoyed by people across different classes of society, it was a meal reserved for low-income people who were trying to cut back on costs. It was an easy and cheap meal. Families would prepare the dough and top it off with cheese and tomatoes. According to researchers, people thought that tomatoes were poisonous during this period. This was why pizza was reserved for low-income families.
+11. The Hawaiian pizza, featuring pineapple and ham as its key toppings, was not invented in Hawaii. It was actually created in Canada. Sam Panopoulos, a Greek immigrant to Canada, is credited with making the first Hawaiian pizza in his restaurant, the Satellite Restaurant, in Chatham, Ontario, in 1962. This sweet and savory pizza combination has since become a popular and divisive choice for pizza lovers around the world.
 
 ## Pizza Trivia
 Delight in intriguing and lesser-known facts that will surprise and entertain you.

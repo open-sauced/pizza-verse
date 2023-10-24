@@ -41,8 +41,8 @@ Follow the steps below to get started:
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) the forked repository to your local machine.
 3. [Create a new branch](https://www.shellhacks.com/git-create-new-branch-and-checkout/) with a name related to your contribution, for example, `feature/add-pizza-recipe`.
-4. You can now add a new pizza fact or trivia to the `pizza-facts-&-trivia.md`, a new regional pizza to the `regional-pizza.md`, or a new recipe to the `pizza-recipes.md` file. Remember, you may only submit one new item in a file.
-5. Follow our `style-guide.md` to format your content.
+4. You can now add a new pizza fact or trivia to the [`pizza-facts-&-trivia.md`](https://github.com/open-sauced/pizza-verse/blob/main/pizza-facts-%26-trivia.md), a new style of pizza to the [`regional-pizza.md`](https://github.com/open-sauced/pizza-verse/blob/main/regional-pizza.md), or a new recipe to the [`pizza-recipes.md`](https://github.com/open-sauced/pizza-verse/blob/main/pizza-recipes.md) file. Remember, you may only submit **one** new item in a file.
+5. Follow our [`style-guide.md`](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) to format your content.
 6. Once you're done, [add](https://github.com/git-guides/git-add#common-usages-and-options-for-git-add) and [commit](https://github.com/git-guides/git-commit#common-usages-and-options-for-git-commit) your changes, then [push](https://github.com/git-guides/git-push#common-usages-and-options-for-git-push) them to your forked repository.
 7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main repository.
 8. Engage with other contributors and maintainers through comments and discussions.

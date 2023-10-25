@@ -10,10 +10,12 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Pepperoni Pizza](#pepperoni-pizza)
 - [4 Cheese Pizza🧀](#4-cheese-pizza )
 - [Spicy Pizza sauce](#spicy-pizza-sauce)
-
+- [Nigeria pizza](#nigeria-pizza)
+- [Chicken Tikka Masala Pizza](#chicken-tikka-masala-pizza)
+- [Old Forge Double Crust Stuffed White Pizza](#old-forge-double-crust-stuffed-white-pizza)
 
 ### Margherita Pizza
-A timeless classic, Margherita pizza showcases simple andfresh ingredients. The combination of tomato sauce, mozzarella cheese, and fresh basil leaves is a dependable go-to. 
+A timeless classic, Margherita pizza showcases simple and fresh ingredients. The combination of tomato sauce, mozzarella cheese, and fresh basil leaves is a dependable go-to. 
 
 ### Pepperoni Pizza
 A mouthwatering delight, featuring a perfect harmony of zesty pepperoni, savory cheese, and a satisfyingly crispy crust. A timeless classic that never fails to please the taste buds.
@@ -23,6 +25,16 @@ Savor the scrumptiousness of a 4 Cheese Pizza, where four cheeses come together 
 
 ### Spicy Pizza Sauce
 Home-made rich sensation sauce that will enchant your tongue in a burst of flavors. This combination of the sauce on any pizza will send you reeling backward in a rush of fiery delight 
+
+### Nigeria pizza
+Nigerian Pizza is a thinly rolled bread dough crust, typically topped before baking with tomato sauce, cheese, and other ingredients such as meat, vegetables, or fruit.
+
+### Chicken Tikka Masala Pizza
+Chicken Tikka Masala Pizza is a cheesy Indian pizza topped with delicious chicken tikka masala. It is the best and easiest homemade pizza recipe ever.
+
+### Old Forge Double Crust Stuffed White Pizza
+Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania.
+ Also known as “Stuffed Pizza” to some, this pizza is essentially a giant (and delicious) grilled cheese sandwich!  It is flavorful to the extreme, great for gatherings and parties, and very versatile.  It also happens to be very easy to make from simple ingredients from the grocery store.
 
 # Margherita Pizza (Michelin Quality)
 
@@ -62,7 +74,6 @@ Experience a Michelin-quality Margherita Pizza that celebrates the essence of si
 10. Remove the pizza from the oven using a pizza peel or spatula, and let it rest for a minute to allow the flavors to meld.
 
 11. Slice the Margherita Pizza and enjoy!
-
 
 
 # Pepperoni Pizza
@@ -306,4 +317,66 @@ This is an easy and delicious pizza recipe. It’s full of those classic tikka m
 
 7.Reduce the temperature to 425°F (218°C). Bake the pizza for 8-10 minutes. Remove the pizza from the pan when it is done and garnish the remaining chopped cilantro.
 
- **Note:** Bake according to the instructions on your store-bought pizza crust. Depending on the type of crusts you buy, the time and temperature may be slightly different. If you prefer, you can stir fry the chicken instead of grilling it.
+ **Note:** Bake according to the instructions on your store-bought pizza crust. Depending on the type of crusts you buy, the time and temperature may be slightly different. If you prefer, you can stir-fry the chicken instead of grilling it.
+
+# Old Forge Double Crust Stuffed White Pizza
+![Old Forge Double Crust Stuffed White Pizza](images/Double-Crust-White-Pizza-Recipe)
+
+Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania. NEPA (Where I’m from) has so many different types of pizza. Also known as “Stuffed Pizza” to some, this pizza is essentially a giant (and delicious) grilled cheese sandwich!  It is flavorful to the extreme, great for gatherings and parties, and very versatile. It also happens to be very easy to make from simple ingredients from the grocery store.
+
+## Tools Needed
+
+1. Pizza Pan or Cookie Sheet.
+
+2. Pizza Cutter.
+
+3. Cheese Shredder.
+
+
+## Ingredients
+
+- 2 pieces of premade Pizza Dough 16 oz each – you can make your own, really any recipe can work for this.  The amount of dough you use will depend on the size of your pan and the desired thickness.
+
+- Cheese 16 oz to 32 oz – I prefer any combination of brick, mozzarella, cheddar, and Cooper cheeses shredded and blended in equal parts.  Some like to use American, muenster, and other cheeses.  Your imagination is really the limit here!  Use as much or as little cheese as you like, but I wouldn’t recommend going over 2 lbs as it will be difficult to eat!
+
+- Olive Oil 2 to 3 tablespoons – Olive oil is used to coat the top crust to give it some extra flavor, color, and crispiness.
+
+- Seasonings – I like to season the cheese inside with granulated garlic, black pepper, and oregano.  I generally use the same granulated garlic, black pepper, and oregano on top as well but always add ground/crushed rosemary to add aroma and flavor that works perfectly.  You can use any seasoning you like.
+
+- Crisco, Lard, or Butter – this is used to coat the pan before making the pizza so that it doesn’t stick, has more flavor, and is crispy. If you have a non-stick pan and want to skip this for health or preference, you don’t really need it.
+
+- Toppings (Optional) – thinly sliced onions placed on top of the crust are the most popular topping on this pizza.  You can add really anything inside the crust.  Broccoli, tomato, onions, spinach, peppers, steak, sausage, and pepperoni are all great to add.
+
+## Instructions: How to Make the Double Crust White Pizza
+
+1. Prep the Pan and Dough.
+
+2. Preheat the oven to 450 degrees.
+
+3. Grease the pan with shortening, lard, or butter. I like solids, not oils because they are more tacky and help pin the dough in the corners and sides so the dough doesn’t “snap back” and shrink.
+
+4. Roll Out the first Dough and Put in the Pan. Always use room-temperature dough for this step.  Take it out of the fridge for 30 to 60 minutes before using. You can use your hands or a rolling pin to press out the dough on the counter to a size just a tiny bit smaller than the size of the pan. 
+
+5. Carefully lift up the dough and fit it into the pan, pressing it lightly and evenly into the sides and corners of the pan. If the dough shrinks and pulls away from the sides of the pan, cover with plastic wrap and allow to sit for 15 minutes, then come back and press it out to the edges.
+
+6. Add the Cheese. You’ll want to add a generous amount of cheese to the pizza. Although amounts will differ by pan and preference, I like to have a 1-inch high flat pile of cheese uniformly spread across the pizza leaving about 1 finger-width (1/2 inch or so) from the edge of the pan.
+
+7. Season the Cheese.  Using the seasonings from the list above, sprinkle seasoning on the cheese. This is an important step as it provides flavor to what will be a very thick and heavy pizza.
+
+8. Get Cheesy and Add Second Crust.
+
+9. Roll Out the second dough and cover the pizza. Using the same process as in step 3, roll out the dough to just about the size of the pan and lift and set on top of the cheese. Pull out the corners of the dough and stick them to the bottom dough first. Then pull out the sides and stick them to the bottom dough going around the whole perimeter until the whole top is stuck to the bottom dough. Pinch a hole in the center of the top crust to allow air to be released. Use the handle of a pizza cutter (or serving spoon, or other similar kitchen tool) to press down the edge crust.
+
+10. Brush with Oil and Season. Drizzle oil oil on top and spread with clean hands or a basting brush. You want to use just enough to where the whole crust is covered and shiny, but there should not be any excess pooling of oil.
+
+11. Sprinkle seasonings on top.
+
+## Bake and Enjoy
+
+1. Bake at 450 degrees. Many recipes post the baking time for pizzas, I choose not to because I find every oven is different and the size and thickness of the pizza you will be preparing will vary. This pizza will take somewhere between 18 and 22 minutes to bake.
+
+2. Look for 2 things to ensure that it is done: the crust has a deep golden brown color, and the cheese can be visibly bubbling through the small hole that you pinched in the top of the crust in step 6.
+
+3. Rotate the pizza after 10 minutes of baking to ensure that it browns and cooks evenly.
+
+4. ENJOY!

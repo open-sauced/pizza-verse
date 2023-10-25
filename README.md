@@ -16,7 +16,7 @@ The Pizza Lovers Repository is a collaborative project where we can come togethe
 
 ### [Pizza Recipes](pizza-recipes.md)
 
-Share your favorite pizza recipes. Whether it's a classic Margherita pizza or a unique creation of your own, this category aims to provide a variety of pizza recipes for everyone to enjoy. Contributors can share their recipes, including ingredients, cooking instructions, and any other relevant details. Feel free to include images of your pizza creations to inspire others to try your recipes!
+Share your favorite pizza recipes. Whether it's a classic Margherita pizza or a unique creation of your own, this category aims to provide a variety of pizza recipes for everyone to enjoy. Contributors can share their recipes, including ingredients, cooking instructions, and other relevant details. Feel free to include images of your pizza creations to inspire others to try your recipes!
 
 ### [Pizza Facts and Trivia](pizza-facts-&-trivia.md)
 
@@ -28,15 +28,24 @@ Share interesting and informative pizza-related facts about your hometown or cou
 
 ## How to Contribute
 
+---
+
+**We only receive one added item per file and one PR for each open issue ([#32](https://github.com/open-sauced/pizza-verse/issues/32), [#35](https://github.com/open-sauced/pizza-verse/issues/35), and [#36](https://github.com/open-sauced/pizza-verse/issues/36)) per contributor**.
+
+So, you may add only one pizza recipe, one fact or trivia, and one regional pizza in separate PR based on the issue. If you want to add more than one, please open an issue and explain why we should add it.
+
+---
+
 Follow the steps below to get started:
 
-1. **Fork** this repository to your own GitHub account.
-2. **Clone** the forked repository to your local machine.
-3. Add a new pizza fact to the `pizza-facts.md` file or choose to add a new recipe to the `pizza-recipes.md` file.
-4. Follow our `style-guide.md` to format your content.
-5. Once you're done, **commit** your changes and **push** them to your forked repository.
-6. Submit a **pull request** to have your contribution reviewed and considered for merging into the main repository.
-7. Engage with other contributors and maintainers through comments and discussions.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository to your own GitHub account.
+2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) the forked repository to your local machine.
+3. [Create a new branch](https://www.shellhacks.com/git-create-new-branch-and-checkout/) with a name related to your contribution, for example, `feature/add-pizza-recipe`.
+4. You can now add a new pizza fact or trivia to the [`pizza-facts-&-trivia.md`](https://github.com/open-sauced/pizza-verse/blob/main/pizza-facts-%26-trivia.md), a new style of pizza to the [`regional-pizza.md`](https://github.com/open-sauced/pizza-verse/blob/main/regional-pizza.md), or a new recipe to the [`pizza-recipes.md`](https://github.com/open-sauced/pizza-verse/blob/main/pizza-recipes.md) file. Remember, you may only submit **one** new item in a file.
+5. Follow our [`style-guide.md`](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md) to format your content.
+6. Once you're done, [add](https://github.com/git-guides/git-add#common-usages-and-options-for-git-add) and [commit](https://github.com/git-guides/git-commit#common-usages-and-options-for-git-commit) your changes, then [push](https://github.com/git-guides/git-push#common-usages-and-options-for-git-push) them to your forked repository.
+7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main repository.
+8. Engage with other contributors and maintainers through comments and discussions.
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
 

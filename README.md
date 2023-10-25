@@ -40,9 +40,7 @@ Follow the steps below to get started:
 
 ## Keeping Branch Up to Date and Resolving Merge Conflicts
 
-Merge conflicts are something you'll commonly encounter when contributing to an open source project. They usually occur when there are changes on the same line(s) in the same file(s) from two different branches.
-
-Since the main purpose in this repository is to add a new item to the `pizza-facts-&-trivia.md`, `pizza-recipes.md` and `regional-pizza.md` files, there is a chance that you will encounter merge conflicts that you need to resolve before your pull request (PR) can be merged. It happens when maintainers have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
+Merge conflicts occur when there are changes on the same line(s) in the same file(s) from two different branches. Since the main purpose in this repository is to add a new item to the `pizza-facts-&-trivia.md`, `pizza-recipes.md`, and `regional-pizza.md` files, there is a chance that you will encounter and need to resolve conflicts because maintainers might have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
 
 In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts.
 
@@ -80,7 +78,7 @@ Now, you must decide how you want to resolve the conflicts. Because the contribu
 
 Follow these steps to resolve the merge conflicts in this repository:
 
-1. Click the "Accept Both Change" option on the top of your workspace in VSCode.
+1. Click the "Accept Both Change" option on the top of your workspace in VSCode. If you haven't enabled this feature, check out [this article by Lee Stanton](https://www.alphr.com/vs-code-open-merge-editor/) to help you.
 2. Fix anything necessary, such as duplicate sentences, etc. **Tips**: If you're confused, look at the markdown file in this repository to compare the current state of the content with your local file when fixing.
 3. Move your item to the end of the list.
 4. Add and commit your changes.

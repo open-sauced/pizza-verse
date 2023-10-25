@@ -25,11 +25,11 @@ We've categorized the facts into different sections to help explore the diverse 
 
 Delight in intriguing and lesser-known facts that will surprise and entertain you.
 
-1. Approximately how many slices of pizza are eaten in the United States per second?
-   - 350
-2. How much does the world's most expensive pizza cost?
-   - $12,000 USD and is called Louis XIII Pizza
-3. What is the most popular pizza topping in the United States?
-   - Pepperoni
-4. How much pizza does the United States population consume on any given day?
-   - 13%
+- Approximately how many slices of pizza are eaten in the United States per second?
+  - 350
+- How much does the world's most expensive pizza cost?
+  - $12,000 USD and is called Louis XIII Pizza
+- What is the most popular pizza topping in the United States?
+  - Pepperoni
+- How much pizza does the United States population consume on any given day?
+  - 13%

@@ -47,6 +47,61 @@ Follow the steps below to get started:
 7. Submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) to have your contribution reviewed and considered for merging into the main repository.
 8. Engage with other contributors and maintainers through comments and discussions.
 
+## Keeping Branch Up to Date and Resolving Merge Conflicts
+
+Merge conflicts occur when there are changes on the same line(s) in the same file(s) from two different branches. Since the main purpose in this repository is to add a new item to the `pizza-facts-&-trivia.md`, `pizza-recipes.md`, and `regional-pizza.md` files, there is a chance that you will encounter and need to resolve conflicts because maintainers might have merged PRs before yours while you're working on your changes or waiting for your PR to be reviewed.
+
+In this section, we will walk you through how to keep your branch up to date and how to resolve conflicts.
+
+### Keeping Branch Up to Date
+
+Before resolving conflicts, your branch has to be in sync with the latest changes in the `main` branch of the original (`upstream`) repository.
+
+First, you must update your forked (`origin`) repository:
+
+1. Go to your forked repository on GitHub.
+2. Click the "Sync fork" button.
+3. Click the green "Update branch" button.
+
+Then, pull the latest changes in the `main` branch in the `origin` repository to your local working branch by following these steps in your terminal:
+
+1. Go to your working branch.
+
+   ```bash
+   git checkout <your-branch-name>
+   ```
+
+2. Pull the latest changes with this command:
+
+   ```bash
+   git pull origin main
+   ```
+
+### Resolving Merge Conflicts
+
+First, you need to pay attention to the conflicts. On which line(s) does the conflict happen? What are the differences?
+
+Everything between the `<<<<<<< HEAD` and `=======` is the changes that you worked on (current changes). And everything between the `=======` to `>>>>>>>` is the incoming changes from the remote `main` branch that you have pulled.
+
+Now, you must decide how you want to resolve the conflicts. Because the contributions in this repository are to add new items, you want to keep both yours and the incoming changes, which are the items from previous contributor(s).
+
+Follow these steps to resolve the merge conflicts in this repository:
+
+1. Click the "Accept Both Change" option on the top of your workspace in VSCode. If you haven't enabled this feature, check out [this article by Lee Stanton](https://www.alphr.com/vs-code-open-merge-editor/) to help you.
+2. Fix anything necessary, such as duplicate sentences, etc. **Tips**: If you're confused, look at the markdown file in this repository to compare the current state of the content with your local file when fixing.
+3. Move your item to the end of the list.
+4. Add and commit your changes.
+
+   ```bash
+   git commit -am "Resolve merge conflicts"
+   ```
+
+5. Push your commits to your remote branch.
+
+   ```bash
+   git push
+   ```
+
 ## Contribution Guidelines
 
 All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md).

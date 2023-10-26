@@ -21,7 +21,7 @@ We've categorized the facts into different sections to help explore the diverse 
 - The Hawaiian pizza, featuring pineapple and ham as its key toppings, was not invented in Hawaii. It was actually created in Canada. Sam Panopoulos, a Greek immigrant to Canada, is credited with making the first Hawaiian pizza in his restaurant, the Satellite Restaurant, in Chatham, Ontario, in 1962. This sweet and savory pizza combination has since become a popular and divisive choice for pizza lovers around the world.
 - Cheese burst pizzas are a cheese lover's dream, and they gained popularity for their gooey, cheesy center. But did you know that the idea for cheese burst pizza was actually inspired by the 'stuffed crust' innovation? In the early 1990s, Pizza Hut introduced stuffed crust pizza, and it was so successful that it led to the creation of the cheese burst pizza, where the entire crust is filled with a delicious, oozing blend of cheeses. So, next time you enjoy a cheese burst pizza, you can thank the stuffed crust for paving the way to this extra cheesy delight
 - An International Pizza Expo takes place each year in Las Vegas, Nevada. It’s the world’s largest gathering of members from the pizza industry. Unfortunately, it’s not open to the public. You have to be in the pizza business to attend.
-- Domino’s Pizza is the Most Popular Pizza Chain in the world as of 2017. The company has more than 17,000 pizza stores in 90 countries, and this number continues to grow.
+- As of 2017, Domino’s Pizza is the most popular pizza chain in the world. The company has more than 17,000 pizza stores in 90 countries, and this number continues to grow.
 
 ## Pizza Trivia
 

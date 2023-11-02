@@ -24,8 +24,6 @@ We've categorized the facts into different sections to help explore the diverse 
 - As of 2017, Domino’s Pizza is the most popular pizza chain in the world. The company has more than 17,000 pizza stores in 90 countries, and this number continues to grow.
 - Anchovies are America's least favorite topping.
 - The longest pizza ever made was over 6,300 feet long. This record-breaking pizza was created in Naples, Italy, in 2016. It required over two tons of flour, 1.5 tons of tomato sauce, and 1.5 tons of mozzarella cheese to make.
-- In Sweden, pizza is often served with a side of kebab meat, creating a dish known as "Pizza Kebab." It's a popular fast-food item in the country.
-- Pizza is a highly customizable food, and some pizza enthusiasts enjoy unusual combinations of toppings, such as macaroni and cheese, chocolate, or even mashed potatoes.
 
 ## Pizza Trivia
 
@@ -39,9 +37,3 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Pepperoni
 - How much pizza does the United States population consume on any given day?
   - 13%
-- What is the world record for the largest pizza ever made, and where was it created?
-  - The world record for the largest pizza ever made is 122'8" inches in diameter, known as Ottavia. It was made in Rome, Italy.
-- In which country was the Hawaiian pizza, featuring pineapple and ham as its key toppings, invented?
-  - The Hawaiian pizza was invented in Canada by Sam Panopoulos, a Greek immigrant, in Chatham, Ontario, in 1962.
-- What popular pizza innovation was inspired by the introduction of stuffed crust pizza by Pizza Hut in the early 1990s?
-  - Cheese burst pizza, where the entire crust is filled with a blend of cheeses, was inspired by the success of stuffed crust pizza introduced by Pizza Hut.

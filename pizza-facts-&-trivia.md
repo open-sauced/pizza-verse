@@ -23,7 +23,7 @@ We've categorized the facts into different sections to help explore the diverse 
 - An International Pizza Expo takes place each year in Las Vegas, Nevada. It’s the world’s largest gathering of members from the pizza industry. Unfortunately, it’s not open to the public. You have to be in the pizza business to attend.
 - As of 2017, Domino’s Pizza is the most popular pizza chain in the world. The company has more than 17,000 pizza stores in 90 countries, and this number continues to grow.
 - Anchovies are America's least favorite topping.
-- The longest pizza ever made was over 6,300 feet long. This record-breaking pizza was created in Naples, Italy, in 2016. It required over two tons of flour, 1.5 tons of tomato sauce, and 1.5 tons of mozzarella cheese to make.
+- The longest pizza ever made was over 1,930.39 meters (6,333 ft 3.60 in) feet long. This record-breaking pizza was created in Fontana, California, USA. The pizza was made using approximately 17,700 lbs of dough, 5,000 lbs of tomato sauce and 3,900 lbs of mozzarella cheese.
 
 ## Pizza Trivia
 

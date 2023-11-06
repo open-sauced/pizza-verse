@@ -38,3 +38,5 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Pepperoni
 - How much pizza does the United States population consume on any given day?
   - 13%
+- How many *acres* worth of pizza do Americans eat daily?
+  - 100 acres

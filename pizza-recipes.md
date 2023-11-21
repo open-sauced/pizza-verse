@@ -13,7 +13,8 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Nigeria pizza](#nigeria-pizza)
 - [Chicken Tikka Masala Pizza](#chicken-tikka-masala-pizza)
 - [Old Forge Double Crust Stuffed White Pizza](#old-forge-double-crust-stuffed-white-pizza)
-- [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#Savory-Pear-and-Gorgonzola-Pizza-with-Balsamic-Glaze)
+- [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#savory-pear-and-gorgonzola-pizza-with-balsamic-glaze)
+- [Zanzibar Pizza](#zanzibar-pizza)
 
 ### Margherita Pizza
 
@@ -276,7 +277,7 @@ The pizza will be placed in an oven tray and baked in a standard kitchen oven.
 3. Add the tomato sauce.
 4. Sprinkle the cheese on top.
 
-## Back to Baking!
+## Back to Baking
 
 ### Instructions
 
@@ -413,13 +414,14 @@ Old Forge Double Crust White Pizza is something native to Northeast Pennsylvania
 Certainly! Let's dive deeper into the extended description of the Savory Pear and Gorgonzola Pizza with Balsamic Glaze:
 
 # Savory-Pear-and-Gorgonzola-Pizza-with-Balsamic-Glaze
+
 ![image](https://github.com/DevJSter/pizza-verse/assets/115056248/09743a33-2555-4e01-9afe-1de3db2c65ee)
 
-#### Overview:
+#### Overview
 
 Experience a culinary symphony of flavors with our Savory Pear and Gorgonzola Pizza. This gourmet creation elevates the traditional pizza concept, inviting you to savor the sweet, savory, and tangy notes that dance across your taste buds. The combination of ripe pears, rich Gorgonzola cheese, and a balsamic glaze drizzle creates a taste sensation that's both sophisticated and comforting.
 
-#### Ingredients:
+#### Ingredients
 
 **Pizza Dough:**
 Start with a foundation of high-quality pizza dough, whether store-bought for convenience or homemade for an extra personal touch.
@@ -451,8 +453,7 @@ Start with a foundation of high-quality pizza dough, whether store-bought for co
 - **Olive Oil:**
   Brushed onto the crust, olive oil enhances the overall richness and contributes to a golden, crisp finish.
 
-
-#### Instructions:
+#### Instructions
 
 **Preheat Oven:**
 Begin by preheating your oven to the recommended temperature, ensuring the pizza bakes to perfection.
@@ -477,5 +478,53 @@ Slice and serve the Savory Pear and Gorgonzola Pizza immediately, allowing the c
 
 ![image](https://github.com/DevJSter/pizza-verse/assets/115056248/5a074ee6-c7be-47ed-84ed-c5d8c0490706)
 
-#### Conclusion:
+#### Conclusion
+
 Elevate your pizza night with this extraordinary creation. The Savory Pear and Gorgonzola Pizza with Balsamic Glaze is not just a meal; it's a culinary adventure that promises to redefine your pizza expectations. Whether shared with friends or enjoyed solo, this pizza is a testament to the artistry and creativity that can be achieved in the kitchen.
+
+### Zanzibar Pizza
+
+![Zanzibar Pizza](https://media-cdn.tripadvisor.com/media/photo-s/19/d6/12/80/zanzibar-pizza.jpg)
+
+Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream cheese, minced meat, and egg. The dough is stretched thin and filled with the ingredients, then pan-fried, and served hot.
+
+Zanzibar pizza is not traditionally categorized as a pizza in the way that most people think of pizza, such as the Italian or American style. Zanzibar pizza is a popular street food in Zanzibar, Tanzania. It is more like a savory, stuffed or filled flatbread that is folded and fried.
+
+The dough is usually made with flour, water, and salt, and then filled with various ingredients such as minced meat, vegetables, and spices. It is then folded and cooked on a griddle or fried until crispy. The result is a delicious and flavorful snack unique to the region.
+
+Zanzibar pizza is like pizza in that it uses dough and fillings, but it is different in its preparation and flavor profile. It is a notable example of how diverse cultures can take familiar concepts like pizza and put their own spin on them to create something new and exciting.
+
+ `Here's a general overview of Zanzibar pizza:`
+
+>1. **Ingredients:**
+
+- The dough is typically made from a mixture of flour, water, and sometimes a bit of oil.
+- The filling can vary widely but often includes a combination of ingredients such as minced or ground meat (beef, chicken, or fish), vegetables (like onions, bell peppers, and tomatoes), eggs, cheese, and a variety of spices.
+
+> 2. **Preparation:**
+>
+- The dough is rolled out thinly into a large, round shape.
+- The filling is placed on one half of the dough.
+- The other half is folded over to encase the filling, creating a half-moon shape.
+- The edges are then sealed to prevent the filling from leaking.
+
+> 3. **Cooking:**
+>
+- Zanzibar pizza is typically cooked on a flat griddle or in a pan.
+- It is often brushed with oil or butter and cooked until the crust becomes crispy and golden brown.
+
+> 4. **Serving:**
+>
+- Once cooked, Zanzibar pizza is usually sliced into smaller portions for easy consumption.
+- It is often served with a side of dipping sauce, which may include a spicy chili sauce or a tangy tamarind sauce.
+
+> 5. **Variations:**
+>
+- Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices.
+
+Zanzibar pizza is not only delicious but also reflects the diverse culinary influences present in Zanzibar, including Swahili, Indian, Arabian, and European flavors. It has become a must-try street food for visitors to Zanzibar and is enjoyed by locals and tourists alike.
+
+>`More About this recipe:`
+>> <https://www.cuisinenoirmag.com/recipes/zanzibar-pizza/>
+>
+>> <https://unitedrepublicoftanzania.com/tanzania-culture/tanzania-food-recipes-traditional/swahili-food-recipe-the-popular-zanzibar-pizza/>

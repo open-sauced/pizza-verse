@@ -486,13 +486,7 @@ Elevate your pizza night with this extraordinary creation. The Savory Pear and G
 
 ![Zanzibar Pizza](https://media-cdn.tripadvisor.com/media/photo-s/19/d6/12/80/zanzibar-pizza.jpg)
 
-Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream cheese, minced meat, and egg. The dough is stretched thin and filled with the ingredients, then pan-fried, and served hot.
-
-Zanzibar pizza is not traditionally categorized as a pizza in the way that most people think of pizza, such as the Italian or American style. Zanzibar pizza is a popular street food in Zanzibar, Tanzania. It is more like a savory, stuffed or filled flatbread that is folded and fried.
-
-The dough is usually made with flour, water, and salt, and then filled with various ingredients such as minced meat, vegetables, and spices. It is then folded and cooked on a griddle or fried until crispy. The result is a delicious and flavorful snack unique to the region.
-
-Zanzibar pizza is like pizza in that it uses dough and fillings, but it is different in its preparation and flavor profile. It is a notable example of how diverse cultures can take familiar concepts like pizza and put their own spin on them to create something new and exciting.
+Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream cheese, minced meat, and egg. The dough is stretched thin and filled with the ingredients, then pan-fried, and served hot.Unlike traditional pizza, this one is more like a savory, foldable, and stuffed flatbread.
 
  `Now, let's move onto the recipe!`
 

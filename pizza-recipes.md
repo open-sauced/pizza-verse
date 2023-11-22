@@ -547,7 +547,7 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 - Let the Zanzibar pizza cool for a few minutes before cutting it into wedges.
 - Serve hot, optionally with a side of dipping sauce or chutney.
 
-> #### 5. **Variations:**
+> #### 4. **Variations:**
 >
  Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices. `Here are some examples:`
 

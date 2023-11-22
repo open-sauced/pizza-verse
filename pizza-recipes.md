@@ -486,7 +486,7 @@ Elevate your pizza night with this extraordinary creation. The Savory Pear and G
 
 ![Zanzibar Pizza](https://media-cdn.tripadvisor.com/media/photo-s/19/d6/12/80/zanzibar-pizza.jpg)
 
-Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream cheese, minced meat, and egg. The dough is stretched thin and filled with the ingredients, then pan-fried, and served hot.Unlike traditional pizza, this one is more like a savory, foldable, and stuffed flatbread.
+Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream cheese, minced meat, and egg. The dough is stretched thin and filled with the ingredients, then pan-fried, and served hot. Unlike traditional pizza, this one is more like a savory, foldable, and stuffed flatbread.
 
  `Now, let's move onto the recipe!`
 
@@ -549,8 +549,7 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 
 > #### 5. **Variations:**
 >
- Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices.
-`For example:`
+ Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices. `Here are some examples:`
 
 ###### **Vegetarian Option:**
 
@@ -562,9 +561,12 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 
 Zanzibar pizza is not only delicious but also reflects the diverse culinary influences present in Zanzibar, including Swahili, Indian, Arabian, and European flavors. It has become a must-try street food for visitors to Zanzibar and is enjoyed by locals and tourists alike.
 
->`More About this recipe:`
->> <https://www.cuisinenoirmag.com/recipes/zanzibar-pizza/>
+>### More About this recipe
 >
->> <https://unitedrepublicoftanzania.com/tanzania-culture/tanzania-food-recipes-traditional/swahili-food-recipe-the-popular-zanzibar-pizza/>
+> Craving for more? Check out these resources:
 >
->> <https://swahilifood.com/zanzibar-pizza/>
+>- <https://www.cuisinenoirmag.com/recipes/zanzibar-pizza/>
+>
+>- <https://unitedrepublicoftanzania.com/tanzania-culture/tanzania-food-recipes-traditional/swahili-food-recipe-the-popular-zanzibar-pizza/>
+>
+>- <https://swahilifood.com/zanzibar-pizza/>

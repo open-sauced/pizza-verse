@@ -490,15 +490,15 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 
  `Now, let's move onto the recipe!`
 
-> #### 1. **Ingredients:**
->
-##### **For the Dough:**
+> #### Ingredients
+
+##### For the Dough
 
 - 2 cups all-purpose flour
 - 1 teaspoon salt
 - Water (approximately 1 cup, add gradually until you achieve a soft, pliable dough)
 
-##### **For the Filling:**
+##### For the Filling
 
 - 1/2 pound (about 225g) minced meat (beef, chicken, or a combination)
 - 1 cup mixed chopped vegetables (onions, bell peppers, tomatoes)
@@ -508,25 +508,25 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 - 1 teaspoon curry powder
 - Salt and pepper to taste
 
-##### **Other Ingredients:**
+##### Other Ingredients
 
 - Oil for frying
 
-> #### 2. **Cooking:**
->
-##### **1. Prepare the Dough:**
+> Now let's get cooking! :)
+
+##### 1. Prepare the Dough
 
 - In a mixing bowl, combine 2 cups of all-purpose flour and 1 teaspoon of salt.
 - Gradually add water (approximately 1 cup) and knead until you have a soft, pliable dough.
 - Let the dough rest for about 30 minutes.
 
-##### **2. Prepare the Filling:**
+##### 2. Prepare the Filling
 
 - In a skillet, cook 1/2 pound of minced meat until browned.
 - Add 1 cup of mixed chopped vegetables and spices (1 teaspoon cumin, 1 teaspoon coriander, 1 teaspoon curry powder) to the meat and cook until the vegetables are softened.
 - Stir in 2 tablespoons of fresh cilantro or parsley and adjust the seasoning with salt and pepper to taste.
 
-##### **3. Assemble and Cook the Zanzibar Pizza:**
+##### 3. Assemble and Cook the Zanzibar Pizza
 
 - Divide the dough into small balls.
 - Roll out each ball into a thin, flat circle on a floured surface.
@@ -536,26 +536,26 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 - Fry each side of the Zanzibar pizza for about 2-3 minutes or until golden brown and crispy.
 - Remove from the oil and drain on paper towels.
 
-##### **4. Optional Ingredient Combinations:**
+##### Optional Ingredient Combinations
 
 - Experiment with different fillings such as shredded cheese, sautéed mushrooms, or cooked lentils for vegetarian options.
 - Add a touch of spice with chopped chili peppers or hot sauce.
 - Explore sweet variations by filling the dough with fruits like bananas or mangoes and a sprinkle of cinnamon.
 
-> #### 3. **Serving:**
+> #### Serving
 
 - Let the Zanzibar pizza cool for a few minutes before cutting it into wedges.
 - Serve hot, optionally with a side of dipping sauce or chutney.
 
-> #### 4. **Variations:**
->
+> #### Variations
+
  Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices. `Here are some examples:`
 
-###### **Vegetarian Option:**
+##### Vegetarian Option
 
 - Replace the minced meat with a mixture of sautéed mushrooms, spinach, onions, and feta cheese.
 
-##### **Mediterranean Inspired:**
+##### Mediterranean Inspired
 
 - Fill the dough with a mixture of olives, sun-dried tomatoes, feta cheese, and oregano for a Mediterranean twist.
 

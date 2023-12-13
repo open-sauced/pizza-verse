@@ -25,7 +25,8 @@ We've categorized the facts into different sections to help explore the diverse 
 - Anchovies are America's least favorite topping.
 - The longest pizza measures 1,930.39 m (6,333 ft 3.60 in) and was achieved in Fontana, California, USA on 10 June 2017. This record-breaking pizza was made using approximately 17,700 lbs of dough, 5,000 lbs of tomato sauce, and 3,900 lbs of mozzarella cheese.
 - On January 19th, 2023, Pizza Hut, in collaboration with YouTuber Eric Decker (Airrack), claimed the Guinness World Record for the World's Largest Pizza, which measured an astonishing 13,957.77 square feet. This remarkable achievement marked a significant pizza history milestone.
-
+- The world's largest pizza festival, known as "Pizza Fest," takes place annually in Naples, Italy, where pizza originated.
+  
 ## Pizza Trivia
 
 Delight in intriguing and lesser-known facts that will surprise and entertain you.

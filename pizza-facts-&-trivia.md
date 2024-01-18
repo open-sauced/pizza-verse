@@ -42,3 +42,5 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - 13%
 - How many *acres* worth of pizza do Americans eat daily?
   - 100 acres
+- What unusual pizza topping is popular in Japan?
+  - Mayonnaise

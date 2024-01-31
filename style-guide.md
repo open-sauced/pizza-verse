@@ -16,7 +16,7 @@ Welcome to the Pizza Verse! This document is a general style to help you format 
 ### Links
 
 - Use this syntax for links to webpages: `![alt text](url)]`.
-- If you'd like to link hosted files such as images, or GIFs, please upload them to the [images folder](https://github.com/open-sauced/pizza-verse/tree/main/images). Said images should be linked to using the following url: "<https://raw.githubusercontent.com/open-sauced/pizza-verse/main/images/>" followed by the image’s name.
+- If you'd like to link hosted files such as images, or GIFs, please upload them to the [images folder](https://github.com/open-sauced/pizza-verse/tree/main/images). Said images should be linked using the following url: "<https://raw.githubusercontent.com/open-sauced/pizza-verse/main/images/>" followed by the image’s name.
 - Avoid linking to sites such as Wikipedia due to its lack of quality control.
 
-> ** Note:** Always check for spelling and grammar errors before you publish your PR. We highly recommend consulting [Grammarly](https://www.grammarly.com/) to help with any of your typos.
+> **Note:** Always check for spelling and grammar errors before you publish your PR. We highly recommend consulting [Grammarly](https://www.grammarly.com/) to help with any of your typos.

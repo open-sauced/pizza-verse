@@ -573,6 +573,7 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 >- <https://swahilifood.com/zanzibar-pizza/>
 
 
+
 #### Sisig Pizza Recipe
 
 ![Sisig Pizza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNUwXyL-ETUvD_vf-eWkmvFHnGCpww6nEPw&usqp=CAU)
@@ -604,7 +605,7 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 
 ## Instructions
 
-### 1. Prepare the Sisig:
+### Prepare the Sisig:
 
 - In a pan, heat cooking oil over medium heat.
 - Add the diced pork belly and cook until it becomes crispy and golden brown.
@@ -612,27 +613,27 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 - Stir in the chopped chili peppers, soy sauce, oyster sauce, and calamansi juice.
 - Season with salt and pepper to taste. Cook until the sisig is well-cooked and flavors are blended. Set aside.
 
-### 2. Preheat the Oven:
+###  Preheat the Oven:
 
 - Preheat your oven according to the instructions on the pizza dough package or to 425°F (220C).
 
-### 3. Prepare the Pizza:
+###  Prepare the Pizza:
 
 - Roll out the pizza dough on a floured surface to your desired thickness.
 - Transfer the rolled-out dough to a pizza stone or baking sheet.
 
-### 4. Assemble the Pizza:
+### Assemble the Pizza:
 
 - Spread a layer of mayonnaise evenly over the pizza dough.
 - Sprinkle the shredded mozzarella and cheddar cheese over the mayo.
 - Spoon the prepared sisig over the cheese, spreading it evenly across the pizza.
 - Garnish with sliced bell peppers and chopped green onions.
 
-### 5. Bake: 
+### Bake: 
 - Place the assembled pizza in the preheated oven.
 - Bake for about 12-15 minutes or until the crust is golden and the cheese is melted and bubbly.
 
-### 6. Serve:
+### Serve:
 
 - Remove the sisig pizza from the oven and let it cool for a few minutes.
 -  Slice and serve your sisig pizza hot.

@@ -15,6 +15,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Old Forge Double Crust Stuffed White Pizza](#old-forge-double-crust-stuffed-white-pizza)
 - [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#savory-pear-and-gorgonzola-pizza-with-balsamic-glaze)
 - [Zanzibar Pizza](#zanzibar-pizza)
+- [Sisig Pizza](#sisig-pizza)
 
 ### Margherita Pizza
 
@@ -570,3 +571,75 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 >- <https://unitedrepublicoftanzania.com/tanzania-culture/tanzania-food-recipes-traditional/swahili-food-recipe-the-popular-zanzibar-pizza/>
 >
 >- <https://swahilifood.com/zanzibar-pizza/>
+
+
+
+#### Sisig Pizza Recipe
+
+![Sisig Pizza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNUwXyL-ETUvD_vf-eWkmvFHnGCpww6nEPw&usqp=CAU)
+
+**Trivia:** *Sisig originated from Pampanga, Philippines, known as the "Culinary Capital of the Philippines." It was traditionally made from pig's head, ears, and snout but has evolved into various versions, including this modern twist on pizza.*
+
+#### Ingredients
+
+### For the Sisig:
+
+- 1 lb pork belly, diced
+- 1 onion, finely chopped
+- 3 cloves garlic, minced
+- 2 red chili peppers, finely chopped (adjust according to your spice preference)
+- 1 tablespoon soy sauce
+- 1 tablespoon oyster sauce
+- 1 tablespoon calamansi juice (or lime/lemon juice)
+- Salt and pepper to taste
+
+### For the Pizza:
+
+- Pizza dough (store-bought or homemade)
+- 1 cup mozzarella cheese, shredded
+- 1/2 cup cheddar cheese, shredded
+- 1/4 cup mayonnaise
+- 2 tablespoons chopped green onions
+- Sliced red and green bell peppers for garnish
+- Cooking oil for frying
+
+## Instructions
+
+### Prepare the Sisig:
+
+- In a pan, heat cooking oil over medium heat.
+- Add the diced pork belly and cook until it becomes crispy and golden brown.
+- Add chopped onions and minced garlic. Sauté until the onions are translucent.
+- Stir in the chopped chili peppers, soy sauce, oyster sauce, and calamansi juice.
+- Season with salt and pepper to taste. Cook until the sisig is well-cooked and flavors are blended. Set aside.
+
+###  Preheat the Oven:
+
+- Preheat your oven according to the instructions on the pizza dough package or to 425°F (220C).
+
+###  Prepare the Pizza:
+
+- Roll out the pizza dough on a floured surface to your desired thickness.
+- Transfer the rolled-out dough to a pizza stone or baking sheet.
+
+### Assemble the Pizza:
+
+- Spread a layer of mayonnaise evenly over the pizza dough.
+- Sprinkle the shredded mozzarella and cheddar cheese over the mayo.
+- Spoon the prepared sisig over the cheese, spreading it evenly across the pizza.
+- Garnish with sliced bell peppers and chopped green onions.
+
+### Bake: 
+- Place the assembled pizza in the preheated oven.
+- Bake for about 12-15 minutes or until the crust is golden and the cheese is melted and bubbly.
+
+### Serve:
+
+- Remove the sisig pizza from the oven and let it cool for a few minutes.
+-  Slice and serve your sisig pizza hot.
+
+
+### Conclusion
+
+In conclusion, this Sisig Pizza recipe offers a delightful blend of traditional Filipino flavors with a Western twist. The crispy pork belly, savory sisig, and gooey cheese come together on a golden crust to create a unique and satisfying dish. Whether you're exploring diverse cuisines or looking for a creative way to enjoy pizza, this fusion recipe is sure to be a hit. Share the joy of culinary experimentation with your friends and family, and savor the rich tapestry of flavors in each slice. Happy cooking!
+

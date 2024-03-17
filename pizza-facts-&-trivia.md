@@ -46,4 +46,4 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
 - What unusual pizza topping is popular in Japan?
   - Mayonnaise
 - What unusual pizza topping can be found in France, Belgium or Italy ?
-  - In some European countries, especially France, Belgium or Italy, (and maybe elsewhere in the world) some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa) and Domino's already launched for a limited time such pizzas (in 2023 in France).
+  - In some European countries, especially France, Belgium, or Italy (and maybe elsewhere in the world), some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa), and Domino's already launched such pizzas for a limited time (in 2023 in France).

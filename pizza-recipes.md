@@ -35,7 +35,7 @@ Home-made rich sensation sauce that will enchant your tongue in a burst of flavo
 
 ### Nigeria pizza
 
-Nigerian Pizza is a thinly rolled bread dough crust, typically topped before baking with tomato sauce, cheese, and other ingredients such as meat, vegetables, or fruit.
+NNigerian Pizza is a unique fusion of Italian and Nigerian culinary traditions, showcasing a thinly rolled bread dough crust, typically topped before baking with tomato sauce, cheese, and a delightful selection of ingredients inspired by the vibrant and diverse flavors of Nigeria’s culinary heritage, such as suya-spiced beef, and other meats, plantains, vegetables, or fruit.
 
 ### Chicken Tikka Masala Pizza
 

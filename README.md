@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="Open Sauced" src="images/logo-on-dark.png" width="300px">
+  <img alt="Open Sauced" src="https://github.com/open-sauced/assets/blob/main/logos/logo-on-dark.png" width="300px">
   <h1>🍕 Pizza Lovers Repository 🍕</h1>
   <strong>Welcome to OpenSauced's Pizza Lovers Repository!</strong>
 </div>

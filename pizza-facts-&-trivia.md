@@ -6,6 +6,8 @@ We've categorized the facts into different sections to help explore the diverse 
 
 ## Pizza Fun Facts
 
+- The oldest still-operational pizza oven in the U.S. is at Lombardi's Pizzaria in the Nolita area of Manhattan, NY.  Lombardi's opened in 1905 and is recognized
+  by the Pizza Hall of Fame as being the first pizzaria in the United States.  Lombardi's is credited with inventing "New York-style" pizza.
 - A pizza was delivered in space 🚀 and Russian cosmonaut, Yuri Usachov, had the honor of being the first person to receive a pizza delivery while in orbit.
 - The most popular pizza 🍕 topping is pepperoni. It’s not to hard to figure this one out, but now we have the numbers to prove it! In a HarrisPoll® taken on January of 2016, pepperoni was found to be the most popular topping followed by Sausage at number two.
 - October is the US National Pizza month.

@@ -28,6 +28,8 @@ We've categorized the facts into different sections to help explore the diverse 
 - On January 19th, 2023, Pizza Hut, in collaboration with YouTuber Eric Decker (Airrack), claimed the Guinness World Record for the World's Largest Pizza, which measured an astonishing 13,957.77 square feet. This remarkable achievement marked a significant pizza history milestone.
 - The world's largest pizza festival, known as "Pizza Fest," takes place annually in Naples, Italy, where pizza originated.
 - As of 2022, there were 80,175 pizza restaurants in the United States, an increase of almost 9,000 restaurants over the past decade.
+- Maasai Pizza in Kenya is inspired by Maasai culture. Some pizzerias in Kenya offer pizzas with unique toppings like nyama choma and a spicy blend of traditional Maasai herbs and spices.
+  
   
 ## Pizza Trivia
 

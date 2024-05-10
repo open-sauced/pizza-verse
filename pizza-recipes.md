@@ -33,7 +33,7 @@ Savor the scrumptiousness of a 4 Cheese Pizza, where four cheeses come together 
 
 Home-made rich sensation sauce that will enchant your tongue in a burst of flavors. This combination of the sauce on any pizza will send you reeling backward in a rush of fiery delight
 
-### Nigeria pizza
+### Nigeria Pizza
 
 Nigerian Pizza is a unique fusion of Italian and Nigerian culinary traditions, showcasing a thinly rolled bread dough crust, typically topped before baking with tomato sauce, cheese, and a delightful selection of ingredients inspired by the vibrant and diverse flavors of Nigeria’s culinary heritage, such as suya-spiced beef, and other meats, plantains, vegetables, or fruit.
 

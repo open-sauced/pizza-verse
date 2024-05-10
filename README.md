@@ -12,7 +12,7 @@
 
 The Pizza Lovers Repository is a collaborative project where we can come together and contribute pizza-related content. Whether you have a fantastic pizza recipe, an interesting pizza fact, or just want to share your opinions on the best pizza toppings, this repository is the perfect place to do it!
 
-You can now add any traditional food from your hometown or country to this repository, in addition to pizza!
+You can now add a traditional food from your hometown or country to this repository, in addition to pizza!
 
 ## Repository Structure
 

@@ -34,13 +34,10 @@ We love pizzas, but we also love any other food and adventure! Share the traditi
 
 ## How to Contribute
 
----
-
-**We only receive one added item per file and one PR for each open issue ([#32](https://github.com/open-sauced/pizza-verse/issues/32), [#35](https://github.com/open-sauced/pizza-verse/issues/35), and [#36](https://github.com/open-sauced/pizza-verse/issues/36)) per contributor**.
-
-So, you may add only one pizza recipe, one fact or trivia, one regional pizza, and one traditional food in separate PR based on the issue. If you want to add more than one, please open an issue and explain why we should add it.
-
----
+> [!IMPORTANT]
+> **We only receive one added item per file and one PR for each open issue ([#32](https://github.com/open-sauced/pizza-verse/issues/32), [#35](https://github.com/open-sauced/pizza-verse/issues/35), [#36](https://github.com/open-sauced/pizza-verse/issues/36), and [#86](https://github.com/open-sauced/pizza-verse/issues/86)) per contributor**.
+>
+> So, you may add only one pizza recipe, one fact or trivia, one regional pizza, and one traditional food in separate PR based on the issue. If you want to add more than one, please open an issue and explain why we should add it.
 
 Follow the steps below to get started:
 

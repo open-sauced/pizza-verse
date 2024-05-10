@@ -4,6 +4,16 @@ Welcome to the Traditional Food Around the World section of our repo! 🗺️�
 
 If your hometown or country has a traditional food (especially if it's your favorite dish!), we encourage you to share it here. We're excited to learn about food culture from around the world!
 
+<!-- INSTRUCTIONS -->
+
+<!-- 
+1. If no country section is available, add one to the continent section, e.g., ### Country Name. Then, add the country as a list under the continent in the Table of Contents. Country names should be ordered alphabetically.
+
+2. If the country section is available, add the food under the country, e.g., #### Food Name
+
+3. Add an image (if available) in the images folder.
+ -->
+
 ## Table of Contents
 
 - [North America](#north-america)

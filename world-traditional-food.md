@@ -11,6 +11,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Europe](#europe)
 - [Africa](#africa)
 - [Asia](#asia)
+  - [Indonesia](#indonesia)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
@@ -22,5 +23,13 @@ If your hometown or country has a traditional food (especially if it's your favo
 ## Africa
 
 ## Asia
+
+### Indonesia
+
+#### Rendang
+
+Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-based dish that is slow-cooked, braised in coconut milk, and seasoned with herb and spice mixture over a period of several hours. As the liquids evaporate, the meat turns dark brown and tender, caramelizing and infusing it with rich flavours.
+
+Rendang is traditionally served at ceremonial occasions to honour guests during festive events, such as wedding feasts and Lebaran (Indonesian popular words for both Eid al-Fitr and Eid al-Adha).
 
 ## Australia / Oceania

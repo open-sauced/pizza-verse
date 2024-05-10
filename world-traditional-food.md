@@ -11,8 +11,11 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 2. If the country section is available, add the food under the country, e.g., #### Food Name
 
-3. Add an image (if available) in the images folder or link the image URL and add it below the food's description.
- -->
+3. Add an image in the images folder if available. Put the path to the image or the link to the image URL in the "src" attribute. Then, add it below the food's description. For example:
+
+   <img src="./images/img-name.jpg" width="400" alt="image description">
+
+-->
 
 ## Table of Contents
 

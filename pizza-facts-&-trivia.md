@@ -28,6 +28,7 @@ We've categorized the facts into different sections to help explore the diverse 
 - On January 19th, 2023, Pizza Hut, in collaboration with YouTuber Eric Decker (Airrack), claimed the Guinness World Record for the World's Largest Pizza, which measured an astonishing 13,957.77 square feet. This remarkable achievement marked a significant pizza history milestone.
 - The world's largest pizza festival, known as "Pizza Fest," takes place annually in Naples, Italy, where pizza originated.
 - As of 2022, there were 80,175 pizza restaurants in the United States, an increase of almost 9,000 restaurants over the past decade.
+- "Pizza John’s Jardín Escondido" restaurant in El Castillo, Costa Rica, is widely considered the world’s most remote pizzaria. It is situated in the middle of the rainforest in Volcán Arenal national park -- and has fantastic views of mountains, lagoons, and wildlife. The pizzaria is located 80+ miles from the nearest city and approx 40 miles from the nearest small town.  Diners are encouraged to commemorate their visit by signing the pizzeria’s "wall of signatures."
   
 ## Pizza Trivia
 
@@ -47,3 +48,5 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Mayonnaise
 - What unusual pizza topping can be found in France, Belgium or Italy?
   - In some European countries, especially France, Belgium, or Italy (and maybe elsewhere in the world), some people like to add french fries as topping for pizzas. One call it Pizza Patatine (or Pizza Patatosa), and Domino's already launched such pizzas for a limited time (in 2023 in France).
+- What is one of the strangest, most-unique pizza-themed items for sale?
+  - Waboba, a sports equipment manufacturing, sells frisbees that look like pizzas called "Fly Pies."  The flying discs are available in four styles -- cheese, pepperoni, hawaiian, and veggie -- and are available at https://waboba.com/products/flypies

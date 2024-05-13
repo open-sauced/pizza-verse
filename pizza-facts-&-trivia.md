@@ -29,6 +29,7 @@ We've categorized the facts into different sections to help explore the diverse 
 - The world's largest pizza festival, known as "Pizza Fest," takes place annually in Naples, Italy, where pizza originated.
 - As of 2022, there were 80,175 pizza restaurants in the United States, an increase of almost 9,000 restaurants over the past decade.
 - Some pizzerias in Kenya offer pizzas with unique toppings, like nyama choma (grilled meat) and a spicy blend of Maasai herbs and spices.
+- It is said that the pizza box was invented in 1963 by an American pizza maker named Tom Monaghan. The air holes on the inside of the box help to keep the pizza fresh by allowing moisture to escape.
   
 ## Pizza Trivia
 

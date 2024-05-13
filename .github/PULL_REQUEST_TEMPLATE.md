@@ -1,7 +1,7 @@
 ## Description
 
 <!--
-Please do not leave this blank
+Please do not leave this blank.
 This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 -->
 
@@ -10,6 +10,7 @@ This PR [adds/removes/fixes/replaces] the [feature/bug/etc].
 - [ ] ☝️ Add a pizza fact or trivia
 - [ ] 🧑‍🍳 Add a pizza recipe
 - [ ] 🗺️ Add a regional pizza
+- [ ] 🍴 Add a traditional food
 - [ ] 📝 Documentation Update
 
 ## Related Tickets & Documents
@@ -26,7 +27,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## [optional] What GIF best describes this PR or how it makes you feel?
 
-<!-- note: PRs with deleted sections will be marked invalid -->
+<!-- note: PRs with deleted sections will be marked invalid. -->
 
 <!--
   For Work In Progress Pull Requests, please use the Draft PR feature,

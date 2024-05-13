@@ -29,6 +29,7 @@ We've categorized the facts into different sections to help explore the diverse 
 - The world's largest pizza festival, known as "Pizza Fest," takes place annually in Naples, Italy, where pizza originated.
 - As of 2022, there were 80,175 pizza restaurants in the United States, an increase of almost 9,000 restaurants over the past decade.
 - Some pizzerias in Kenya offer pizzas with unique toppings, like nyama choma (grilled meat) and a spicy blend of Maasai herbs and spices.
+- "Pizza John’s Jardín Escondido" restaurant in El Castillo, Costa Rica, is widely considered the world’s most remote pizzaria. It is situated in the middle of the rainforest in Volcán Arenal national park -- and has fantastic views of mountains, lagoons, and wildlife. The pizzaria is located 80+ miles from the nearest city and approx 40 miles from the nearest small town.  Diners are encouraged to commemorate their visit by signing the pizzeria’s "wall of signatures."
   
 ## Pizza Trivia
 

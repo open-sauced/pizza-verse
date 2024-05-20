@@ -60,8 +60,6 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 
 <img src="images/chicken-adobo.jpeg" width="400" alt="rendang indonesian food">
 
-
 **Image source:* Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
-
 
 ## Australia / Oceania

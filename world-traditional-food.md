@@ -58,10 +58,8 @@ Every cook might have their own methods for cooking but the recipe typically req
 
 The cooking process usually involves marinating the chicken in a mixture of these ingredients in a pot for a short period. After marinating, the chicken is simmered in the marinade until tender. This dish is traditionally served with steamed rice or garlic fried rice.
 
-<img src="images/chicken-adobo.jpeg" width="400" alt="rendang indonesian food">
-
+<img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
 
 **Image source:* Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
-
 
 ## Australia / Oceania

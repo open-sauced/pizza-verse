@@ -25,6 +25,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Africa](#africa)
 - [Asia](#asia)
   - [Indonesia](#indonesia)
+  - [Philippines](#philippines)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
@@ -46,5 +47,19 @@ Rendang is a dish that originated in West Sumatra, Indonesia. It is a rich meat-
 Rendang is traditionally served at ceremonial occasions to honour guests during festive events, such as wedding feasts and Lebaran (Indonesian popular words for both Eid al-Fitr and Eid al-Adha).
 
 <img src="https://indonesiakaya.com/wp-content/uploads/2023/04/ren_Artboard_4.jpg" width="400" alt="rendang indonesian food">
+
+### Philippines
+
+#### Adobong Manok
+
+Adobong manok, or "chicken adobo," is widely regarded to be the national dish of the Philippines. The beauty of chicken adobo is not just the savory flavors of the dish but also how simple and easy it is to prepare. 
+
+Every cook might have their own methods for cooking but the recipe typically require only a few basic ingredients that are commonly available in most kitchens: vinegar, soy sauce, black peppercorns, and bay leaves. 
+
+The cooking process usually involves marinating the chicken in a mixture of these ingredients in a pot for a short period. After marinating, the chicken is simmered in the marinade until tender. This dish is traditionally served with steamed rice or garlic fried rice.
+
+<img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
+
+**Image source:* Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
 ## Australia / Oceania

@@ -62,4 +62,12 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 
 **Image source:* Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
 
+### India
+
+#### dosa
+
+Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe made from fermented rice and lentil batter. There are many variations in dosa like Egg dosa, stuffed dosa, onion dosa etc.. Dosa is typically served with sambar (a lentil stew) and chutney (coconut chutney or peanut chutney).
+
+<img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
+
 ## Australia / Oceania

@@ -24,6 +24,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Europe](#europe)
 - [Africa](#africa)
 - [Asia](#asia)
+  - [India](#india)
   - [Indonesia](#indonesia)
   - [Philippines](#philippines)
 - [Australia / Oceania](#australia--oceania)
@@ -37,6 +38,14 @@ If your hometown or country has a traditional food (especially if it's your favo
 ## Africa
 
 ## Asia
+
+### India  
+
+#### Dosa  
+
+Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe made from fermented rice and lentil batter. Dosa has many variations, like egg dosa, stuffed dosa, onion dosa, etc. This dish is typically served with _sambar_ (a lentil stew) and coconut or peanut chutney.  
+
+<img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
 
 ### Indonesia
 
@@ -61,13 +70,5 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 <img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
 
 **Image source:* Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
-
-### India
-
-#### dosa
-
-Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe made from fermented rice and lentil batter. There are many variations in dosa like Egg dosa, stuffed dosa, onion dosa etc.. Dosa is typically served with sambar (a lentil stew) and chutney (coconut chutney or peanut chutney).
-
-<img src="images/dosa.webp" width="408" alt="Normal and stuffed dosa served with sambar">
 
 ## Australia / Oceania

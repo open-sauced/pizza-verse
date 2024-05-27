@@ -45,6 +45,9 @@
 #### Griot
 
 Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in a mixture of herbs and spices and fried in oil, resulting in a crispy and tender meat, and the sauce is rich and flavorful. Griot is often topped with a pickled vegetable sauce called "pikliz"(pronounced "pick-leez") and served along side with fried plantains, rice, and red beans, making it the national dish of Haiti.
+
+ <img src="./images/img-name.jpg" width="400" alt="image description">
+
 ## Asia
 
 ### India  

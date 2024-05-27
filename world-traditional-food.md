@@ -1,9 +1,3 @@
-# Traditional Food Around the World
-
-Welcome to the Traditional Food Around the World section of our repo! 🗺️🍴
-
-If your hometown or country has a traditional food (especially if it's your favorite dish!), we encourage you to share it here. We're excited to learn about food culture from around the world!
-
 <!-- CONTRIBUTING INSTRUCTIONS -->
 
 <!--
@@ -19,14 +13,21 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [North America](#north-america)
 - [South America](#south-america)
 - [Europe](#europe)
 - [Africa](#africa)
+- [Caribbean](#caribbean)
+  - [Haiti](#haiti)
+    - [Griot](#griot)
 - [Asia](#asia)
   - [India](#india)
+    - [Dosa](#dosa)
   - [Indonesia](#indonesia)
+    - [Rendang](#rendang)
   - [Philippines](#philippines)
+    - [Adobong Manok](#adobong-manok)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
@@ -37,6 +38,13 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 ## Africa
 
+## Caribbean
+
+### Haiti
+
+#### Griot
+
+Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in a mixture of herbs and spices and fried in oil, resulting in a crispy and tender meat, and the sauce is rich and flavorful. Griot is often topped with a pickled vegetable sauce called "pikliz"(pronounced "pick-leez") and served along side with fried plantains, rice, and red beans, making it the national dish of Haiti.
 ## Asia
 
 ### India  
@@ -69,6 +77,6 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 
 <img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
 
-**Image source:* Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons*
+**Image source:** Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 ## Australia / Oceania

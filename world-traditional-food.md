@@ -49,7 +49,7 @@ Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe ma
 
 #### Samosa
 
-Samosa is a delicius Indian dish. It is triangular or pyramidal in shape which is deep fried in oil
+Samosa is a delicious deep-fried Indian dish. It has a triangular or pyramidal shape.
 
 <img src="images/samora.jpg" width="408" alt="A delicious samosa">
 

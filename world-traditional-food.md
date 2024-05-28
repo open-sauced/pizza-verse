@@ -49,7 +49,9 @@ Dosa is a delicious and popular South Indian dish. It is a thin, crispy crepe ma
 
 #### Samosa
 
-Samosa is a delicious deep-fried Indian dish. It has a triangular or pyramidal shape. The filling of a samosa typically consists of spiced potatoes, peas, and sometimes additional vegetables or minced meat, flavored with a blend of spices like cumin, coriander, and garam masala. Samosas are commonly dipped in chutneys such as tangy tamarind chutney and fresh mint-cilantro chutney, both of which complement the savory filling perfectly.
+A samosa is a popular fried or baked pastry with a savory filling, often consisting of spiced potatoes, peas, and sometimes meat. Originating in the Indian subcontinent, this triangular snack is enjoyed worldwide and is a staple in Indian cuisine.
+
+The filling of a samosa typically includes spiced potatoes, peas, and sometimes lentils or ground meat like lamb or chicken, flavored with a blend of spices such as cumin, coriander, and garam masala. Samosas are often enjoyed with dipping sauces such as tamarind chutney, mint-coriander chutney, or yogurt-based raita, which complement the spicy filling with their tangy and refreshing flavors.
 
 <img src="images/samora.jpg" width="408" alt="A delicious samosa">
 

@@ -15,7 +15,6 @@
 
 - [Table of Contents](#table-of-contents)
 - [North America](#north-america)
-  - [Caribbean](#caribbean)
   - [Haiti](#haiti)
     - [Griot](#griot)
 - [South America](#south-america)
@@ -31,8 +30,6 @@
 - [Australia / Oceania](#australia--oceania)
 
 ## North America
-
-### Caribbean
 
 ### Haiti
 

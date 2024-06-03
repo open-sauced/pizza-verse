@@ -21,13 +21,11 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 - [North America](#north-america)
   - [Haiti](#haiti)
-    - [Griot](#griot)
 - [South America](#south-america)
 - [Europe](#europe)
 - [Africa](#africa)
 - [Asia](#asia)
   - [India](#india)
-    - [Dosa](#dosa)
   - [Indonesia](#indonesia)
     - [Rendang](#rendang)
   - [Philippines](#philippines)

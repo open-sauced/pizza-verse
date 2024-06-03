@@ -20,6 +20,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 ## Table of Contents
 
 - [North America](#north-america)
+  - [Haiti](#haiti)
 - [South America](#south-america)
 - [Europe](#europe)
 - [Africa](#africa)
@@ -31,6 +32,14 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 ## North America
 
+### Haiti
+
+#### Griot
+
+Griot (pronounced "gree-oh") is a popular Haitian dish. It is pork marinated in a mixture of herbs and spices and fried in oil, resulting in a crispy and tender meat, and the sauce is rich and flavorful. Griot is often topped with a pickled vegetable sauce called "pikliz"(pronounced "pick-leez") and served along side with fried plantains, rice, and red beans, making it the national dish of Haiti.
+
+<img src="./images/griot.jpg" width="400" alt="a plate of rice and beans with fried plantains and griot topped with pikliz">
+ 
 ## South America
 
 ## Europe
@@ -77,6 +86,6 @@ The cooking process usually involves marinating the chicken in a mixture of thes
 
 <img src="images/chicken-adobo.jpeg" width="400" alt="chicken adobo filipino food">
 
-\*_Image source:_ Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons\*
+**Image source:** Joy D. Ganaden, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 ## Australia / Oceania

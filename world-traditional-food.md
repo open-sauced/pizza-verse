@@ -27,9 +27,7 @@ If your hometown or country has a traditional food (especially if it's your favo
 - [Asia](#asia)
   - [India](#india)
   - [Indonesia](#indonesia)
-    - [Rendang](#rendang)
   - [Philippines](#philippines)
-    - [Adobong Manok](#adobong-manok)
 - [Australia / Oceania](#australia--oceania)
 
 ## North America

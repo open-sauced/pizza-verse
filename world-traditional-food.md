@@ -19,7 +19,6 @@ If your hometown or country has a traditional food (especially if it's your favo
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [North America](#north-america)
   - [Haiti](#haiti)
     - [Griot](#griot)

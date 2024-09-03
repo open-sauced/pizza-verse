@@ -16,6 +16,7 @@ In this section, we invite you to explore a variety of delicious pizza recipes s
 - [Savory Pear and Gorgonzola Pizza with Balsamic Glaze](#savory-pear-and-gorgonzola-pizza-with-balsamic-glaze)
 - [Zanzibar Pizza](#zanzibar-pizza)
 - [Sisig Pizza](#sisig-pizza)
+- [BBQ Chicken Pizza](#bbq-chicken-pizza)
 
 ### Margherita Pizza
 
@@ -489,7 +490,7 @@ Elevate your pizza night with this extraordinary creation. The Savory Pear and G
 
 Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream cheese, minced meat, and egg. The dough is stretched thin and filled with the ingredients, then pan-fried, and served hot. Unlike traditional pizza, this one is more like a savory, foldable, and stuffed flatbread.
 
- `Now, let's move onto the recipe!`
+`Now, let's move onto the recipe!`
 
 > #### Ingredients
 
@@ -550,7 +551,7 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 
 > #### Variations
 
- Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices. `Here are some examples:`
+Due to its popularity and adaptability, there are many variations of Zanzibar pizza, with different combinations of fillings and spices. `Here are some examples:`
 
 ##### Vegetarian Option
 
@@ -562,23 +563,21 @@ Zanzibar Pizza is a Tanzanian dish made with flour, salt, onion, tomato, cream c
 
 Zanzibar pizza is not only delicious but also reflects the diverse culinary influences present in Zanzibar, including Swahili, Indian, Arabian, and European flavors. It has become a must-try street food for visitors to Zanzibar and is enjoyed by locals and tourists alike.
 
->### More About this recipe
+> ### More About this recipe
 >
 > Craving for more? Check out these resources:
 >
->- <https://www.cuisinenoirmag.com/recipes/zanzibar-pizza/>
+> - <https://www.cuisinenoirmag.com/recipes/zanzibar-pizza/>
 >
->- <https://unitedrepublicoftanzania.com/tanzania-culture/tanzania-food-recipes-traditional/swahili-food-recipe-the-popular-zanzibar-pizza/>
+> - <https://unitedrepublicoftanzania.com/tanzania-culture/tanzania-food-recipes-traditional/swahili-food-recipe-the-popular-zanzibar-pizza/>
 >
->- <https://swahilifood.com/zanzibar-pizza/>
-
-
+> - <https://swahilifood.com/zanzibar-pizza/>
 
 #### Sisig Pizza Recipe
 
 ![Sisig Pizza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNUwXyL-ETUvD_vf-eWkmvFHnGCpww6nEPw&usqp=CAU)
 
-**Trivia:** *Sisig originated from Pampanga, Philippines, known as the "Culinary Capital of the Philippines." It was traditionally made from pig's head, ears, and snout but has evolved into various versions, including this modern twist on pizza.*
+**Trivia:** _Sisig originated from Pampanga, Philippines, known as the "Culinary Capital of the Philippines." It was traditionally made from pig's head, ears, and snout but has evolved into various versions, including this modern twist on pizza._
 
 #### Ingredients
 
@@ -613,11 +612,11 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 - Stir in the chopped chili peppers, soy sauce, oyster sauce, and calamansi juice.
 - Season with salt and pepper to taste. Cook until the sisig is well-cooked and flavors are blended. Set aside.
 
-###  Preheat the Oven:
+### Preheat the Oven:
 
 - Preheat your oven according to the instructions on the pizza dough package or to 425°F (220C).
 
-###  Prepare the Pizza:
+### Prepare the Pizza:
 
 - Roll out the pizza dough on a floured surface to your desired thickness.
 - Transfer the rolled-out dough to a pizza stone or baking sheet.
@@ -629,17 +628,57 @@ Zanzibar pizza is not only delicious but also reflects the diverse culinary infl
 - Spoon the prepared sisig over the cheese, spreading it evenly across the pizza.
 - Garnish with sliced bell peppers and chopped green onions.
 
-### Bake: 
+### Bake:
+
 - Place the assembled pizza in the preheated oven.
 - Bake for about 12-15 minutes or until the crust is golden and the cheese is melted and bubbly.
 
 ### Serve:
 
 - Remove the sisig pizza from the oven and let it cool for a few minutes.
--  Slice and serve your sisig pizza hot.
+- Slice and serve your sisig pizza hot.
 
+## BBQ Chicken Pizza
+
+A delicious twist on the classic pizza, BBQ Chicken Pizza combines the tangy sweetness of barbecue sauce with tender chicken, red onions, and melted cheese. This pizza is a perfect choice for those who enjoy a mix of savory and sweet flavors.
+
+### Ingredients
+
+- Pizza dough (store-bought or homemade)
+- 1/2 cup barbecue sauce (your favorite brand)
+- 1 cup cooked chicken breast, shredded
+- 1/2 red onion, thinly sliced
+- 1 cup shredded mozzarella cheese
+- 1/2 cup shredded cheddar cheese
+- Fresh cilantro leaves, for garnish
+- Olive oil (for brushing the crust)
+
+### Instructions
+
+1. Preheat your oven to 475°F (245°C).
+
+2. Lightly grease a pizza pan or baking sheet with cooking spray or olive oil to prevent sticking.
+
+3. On a floured surface, roll out the pizza dough to your desired thickness.
+
+4. Transfer the rolled-out dough to the greased pizza pan and adjust the shape if needed.
+
+5. Spread the barbecue sauce evenly over the dough, leaving a small border around the edges for the crust.
+
+6. Sprinkle the shredded chicken evenly over the barbecue sauce.
+
+7. Add the sliced red onions on top of the chicken.
+
+8. Sprinkle the shredded mozzarella and cheddar cheese over the toppings, ensuring even coverage.
+
+9. Brush the crust with a little olive oil for added crispiness and flavor.
+
+10. Place the pizza in the preheated oven and bake for 12-15 minutes, or until the crust is golden and the cheese is melted and bubbly.
+
+11. Remove the pizza from the oven and let it cool for a minute or two. Garnish with fresh cilantro leaves before slicing and serving.
+
+Enjoy your BBQ Chicken Pizza hot and fresh out of the oven!
 
 ### Conclusion
 
 In conclusion, this Sisig Pizza recipe offers a delightful blend of traditional Filipino flavors with a Western twist. The crispy pork belly, savory sisig, and gooey cheese come together on a golden crust to create a unique and satisfying dish. Whether you're exploring diverse cuisines or looking for a creative way to enjoy pizza, this fusion recipe is sure to be a hit. Share the joy of culinary experimentation with your friends and family, and savor the rich tapestry of flavors in each slice. Happy cooking!
-

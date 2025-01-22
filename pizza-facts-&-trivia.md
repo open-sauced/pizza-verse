@@ -32,7 +32,8 @@ We've categorized the facts into different sections to help explore the diverse 
 - It is said that the pizza box was invented in 1963 by an American pizza maker named Tom Monaghan. The air holes on the inside of the box help to keep the pizza fresh by allowing moisture to escape.
 - "Pizza John’s Jardín Escondido" restaurant in El Castillo, Costa Rica, is widely considered the world’s most remote pizzaria. It is situated in the middle of the rainforest in Volcán Arenal National Park and affords spectacular views of mountains, lagoons, and wildlife. The pizzaria is located 80+ miles from the nearest city.
 - A new Guiness World Record for largest pizza was set in 2023. In total, 13,653 pounds (6,193 kilograms) of dough, 4,948 pounds of pizza sauce, more than 8,800 pounds of cheese and roughly 630,496 pieces of pepperoni went into making the record-breaking pie.
-  
+- The world’s first round pizza box was created by Apple, showcased in their cafeterias. Its unique design keeps the pizza crisp and prevents it from getting soggy.
+
 ## Pizza Trivia
 
 Delight in intriguing and lesser-known facts that will surprise and entertain you.
@@ -45,7 +46,7 @@ Delight in intriguing and lesser-known facts that will surprise and entertain yo
   - Pepperoni
 - How much pizza does the United States population consume on any given day?
   - 13%
-- How many *acres* worth of pizza do Americans eat daily?
+- How many _acres_ worth of pizza do Americans eat daily?
   - 100 acres
 - What unusual pizza topping is popular in Japan?
   - Mayonnaise
